@@ -19,3 +19,5 @@ python treinar_modelo_tf.py
 4 - Rode a API
 
 python app.py
+
+5 - Acesse a API

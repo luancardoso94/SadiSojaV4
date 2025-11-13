@@ -1,1051 +1,1051 @@
 estado,cidade,temperatura_media,precipitacao_media,risco_geada,janela_plantio,risco_plantio
-BA,Barreiras,24.8,1312,Baixo,Setembro,Medio
-BA,Barreiras,24.7,1271,Baixo,Outubro,Medio
-PR,Cascavel,22.9,1729,Medio,Dezembro,Medio
-PR,Cascavel,23.3,1732,Medio,Setembro,Medio
-BA,Luis Eduardo Magalhaes,24.1,1218,Baixo,Setembro,Medio
-SC,Joacaba,19.4,1615,Medio,Setembro,Medio
-RS,Santa Maria,20.0,1808,Medio,Setembro,Medio
-PR,Cascavel,21.8,1637,Medio,Outubro,Baixo
-PR,Guarapuava,18.5,1633,Alto,Dezembro,Medio
-GO,Rio Verde,26.0,1758,Baixo,Setembro,Medio
-RS,Santa Maria,19.6,1843,Medio,Setembro,Medio
-BA,Luis Eduardo Magalhaes,25.7,1210,Baixo,Dezembro,Alto
-SC,Joacaba,19.9,1637,Medio,Outubro,Baixo
-RS,Pelotas,19.3,1575,Baixo,Outubro,Baixo
-PR,Guarapuava,17.9,1559,Alto,Novembro,Baixo
-SC,Joacaba,18.0,1719,Medio,Novembro,Baixo
-PR,Cascavel,22.0,1763,Medio,Setembro,Medio
-MT,Cuiaba,28.6,1459,Baixo,Outubro,Medio
-SC,Chapeco,19.2,1991,Medio,Setembro,Medio
-RS,Pelotas,18.7,1581,Baixo,Setembro,Medio
-RS,Pelotas,19.0,1670,Baixo,Dezembro,Medio
-MT,Rondonopolis,25.9,1368,Baixo,Outubro,Medio
-SC,Joacaba,19.4,1711,Medio,Novembro,Baixo
-MS,Campo Grande,25.2,1350,Baixo,Dezembro,Medio
-GO,Jatai,23.8,1603,Baixo,Outubro,Baixo
-GO,Jatai,25.9,1664,Baixo,Setembro,Medio
-BA,Barreiras,25.4,1256,Baixo,Dezembro,Alto
-GO,Rio Verde,25.0,1750,Baixo,Dezembro,Medio
-SC,Joacaba,19.7,1721,Medio,Setembro,Medio
-PR,Londrina,22.9,1576,Baixo,Setembro,Medio
-MS,Dourados,22.5,1510,Baixo,Novembro,Baixo
-RS,Santa Maria,19.2,1710,Medio,Dezembro,Medio
-MS,Dourados,25.0,1458,Baixo,Outubro,Baixo
-BA,Luis Eduardo Magalhaes,24.5,1150,Baixo,Setembro,Medio
-SC,Joacaba,17.9,1608,Medio,Setembro,Medio
-GO,Jatai,24.4,1732,Baixo,Outubro,Baixo
-BA,Barreiras,25.0,1214,Baixo,Dezembro,Alto
-MT,Rondonopolis,26.5,1444,Baixo,Outubro,Baixo
-MT,Rondonopolis,26.8,1476,Baixo,Setembro,Medio
-GO,Rio Verde,26.1,1701,Baixo,Setembro,Medio
-BA,Luis Eduardo Magalhaes,25.0,1132,Baixo,Outubro,Medio
-GO,Rio Verde,24.9,1661,Baixo,Setembro,Medio
-SC,Joacaba,18.4,1748,Medio,Outubro,Baixo
-PR,Cascavel,21.4,1638,Medio,Dezembro,Medio
-RS,Ijui,19.3,1881,Medio,Outubro,Baixo
-RS,Ijui,19.5,1898,Medio,Novembro,Baixo
-BA,Barreiras,25.1,1210,Baixo,Setembro,Medio
-SC,Joacaba,17.6,1786,Medio,Novembro,Baixo
-RS,Pelotas,19.1,1699,Baixo,Novembro,Baixo
-RS,Ijui,19.3,1768,Medio,Outubro,Baixo
-GO,Jatai,25.0,1630,Baixo,Novembro,Baixo
-MS,Campo Grande,25.8,1389,Baixo,Setembro,Medio
-MS,Dourados,22.9,1438,Baixo,Setembro,Medio
-SC,Chapeco,20.6,1802,Medio,Dezembro,Medio
-RS,Pelotas,19.0,1636,Baixo,Setembro,Medio
-MT,Cuiaba,27.1,1390,Baixo,Setembro,Medio
-MT,Cuiaba,29.0,1445,Baixo,Dezembro,Medio
-RS,Passo Fundo,17.3,1890,Alto,Outubro,Medio
-SC,Joacaba,19.7,1774,Medio,Novembro,Baixo
-MT,Sorriso,25.1,1879,Baixo,Outubro,Baixo
-GO,Jatai,23.2,1703,Baixo,Dezembro,Medio
-PR,Guarapuava,18.9,1587,Alto,Outubro,Medio
-MS,Dourados,23.3,1566,Baixo,Setembro,Medio
-SC,Chapeco,19.2,1999,Medio,Novembro,Baixo
-PR,Guarapuava,17.7,1726,Alto,Dezembro,Medio
-BA,Barreiras,25.1,1200,Baixo,Dezembro,Alto
-PR,Londrina,22.2,1562,Baixo,Setembro,Medio
-GO,Rio Verde,25.7,1655,Baixo,Dezembro,Medio
-MT,Cuiaba,28.4,1319,Baixo,Dezembro,Medio
-MT,Rondonopolis,24.8,1423,Baixo,Dezembro,Medio
-RS,Pelotas,17.6,1690,Baixo,Setembro,Medio
-PR,Londrina,21.8,1529,Baixo,Novembro,Baixo
-MS,Campo Grande,23.8,1459,Baixo,Dezembro,Medio
-PR,Cascavel,23.2,1793,Medio,Outubro,Baixo
-MT,Cuiaba,29.1,1410,Baixo,Dezembro,Medio
-RS,Santa Maria,21.2,1737,Medio,Outubro,Baixo
-MT,Rondonopolis,26.7,1315,Baixo,Dezembro,Medio
-MT,Sorriso,27.9,1845,Baixo,Outubro,Baixo
-MS,Campo Grande,25.4,1462,Baixo,Dezembro,Medio
-BA,Barreiras,24.7,1227,Baixo,Novembro,Medio
-BA,Luis Eduardo Magalhaes,26.3,1284,Baixo,Novembro,Medio
-PR,Londrina,23.2,1698,Baixo,Novembro,Baixo
-RS,Passo Fundo,18.5,1805,Alto,Setembro,Alto
-MT,Sinop,28.1,2098,Baixo,Setembro,Medio
-MT,Sinop,26.4,1956,Baixo,Outubro,Baixo
-RS,Pelotas,18.4,1610,Baixo,Setembro,Medio
-MS,Campo Grande,25.3,1393,Baixo,Setembro,Medio
-MT,Sinop,27.2,2035,Baixo,Setembro,Medio
-RS,Santa Maria,19.0,1773,Medio,Outubro,Baixo
-MS,Dourados,22.6,1488,Baixo,Outubro,Baixo
-RS,Ijui,19.7,1838,Medio,Setembro,Medio
-PR,Cascavel,22.1,1619,Medio,Dezembro,Medio
-PR,Ponta Grossa,18.9,1622,Medio,Setembro,Medio
-MS,Campo Grande,25.9,1505,Baixo,Setembro,Medio
-SC,Joacaba,19.3,1717,Medio,Outubro,Baixo
-MS,Campo Grande,25.0,1472,Baixo,Setembro,Medio
-MS,Dourados,22.7,1594,Baixo,Outubro,Baixo
-RS,Santa Maria,19.4,1716,Medio,Dezembro,Medio
-MT,Sorriso,27.2,1901,Baixo,Setembro,Medio
-PR,Londrina,23.6,1520,Baixo,Setembro,Medio
-PR,Guarapuava,19.5,1649,Alto,Novembro,Baixo
-BA,Barreiras,25.1,1306,Baixo,Outubro,Medio
-RS,Santa Maria,18.6,1816,Medio,Setembro,Medio
-MT,Sorriso,26.1,1830,Baixo,Outubro,Baixo
-MT,Cuiaba,26.9,1396,Baixo,Outubro,Medio
-BA,Luis Eduardo Magalhaes,24.2,1157,Baixo,Outubro,Medio
-BA,Luis Eduardo Magalhaes,24.4,1262,Baixo,Novembro,Medio
-PR,Cascavel,22.4,1717,Medio,Outubro,Baixo
-MS,Dourados,25.3,1473,Baixo,Outubro,Baixo
-RS,Santa Maria,21.5,1776,Medio,Novembro,Baixo
-MS,Dourados,23.7,1504,Baixo,Setembro,Medio
-BA,Luis Eduardo Magalhaes,26.4,1103,Baixo,Setembro,Medio
-PR,Guarapuava,16.5,1621,Alto,Setembro,Alto
-MT,Sinop,25.5,1920,Baixo,Dezembro,Medio
-RS,Ijui,19.4,1940,Medio,Dezembro,Medio
-MS,Campo Grande,26.0,1524,Baixo,Dezembro,Medio
-PR,Ponta Grossa,20.1,1497,Medio,Setembro,Medio
-PR,Ponta Grossa,19.4,1533,Medio,Setembro,Medio
-GO,Rio Verde,24.2,1786,Baixo,Novembro,Baixo
-SC,Lages,18.3,1626,Alto,Outubro,Medio
-PR,Cascavel,21.8,1603,Medio,Dezembro,Medio
-SC,Joacaba,17.7,1689,Medio,Novembro,Baixo
-SC,Lages,16.4,1676,Alto,Novembro,Baixo
-RS,Pelotas,17.5,1642,Baixo,Outubro,Baixo
-RS,Ijui,19.4,1888,Medio,Setembro,Medio
-GO,Jatai,24.9,1720,Baixo,Setembro,Medio
-GO,Jatai,24.0,1711,Baixo,Setembro,Medio
-SC,Lages,16.9,1640,Alto,Setembro,Alto
-SC,Lages,17.9,1545,Alto,Setembro,Alto
-PR,Ponta Grossa,20.1,1620,Medio,Setembro,Medio
-PR,Guarapuava,18.8,1736,Alto,Setembro,Alto
-PR,Londrina,22.7,1553,Baixo,Setembro,Medio
-MT,Rondonopolis,26.5,1441,Baixo,Novembro,Baixo
-GO,Rio Verde,23.7,1687,Baixo,Outubro,Baixo
-SC,Chapeco,21.2,1907,Medio,Novembro,Baixo
-MT,Rondonopolis,25.8,1346,Baixo,Setembro,Medio
-PR,Ponta Grossa,18.4,1627,Medio,Outubro,Baixo
-PR,Ponta Grossa,19.4,1551,Medio,Outubro,Baixo
-PR,Londrina,22.4,1593,Baixo,Setembro,Medio
-MS,Campo Grande,26.4,1459,Baixo,Dezembro,Medio
-SC,Lages,15.6,1694,Alto,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,26.9,1243,Baixo,Setembro,Medio
-PR,Guarapuava,18.4,1644,Alto,Outubro,Medio
-PR,Ponta Grossa,20.6,1596,Medio,Setembro,Medio
-MT,Rondonopolis,25.8,1305,Baixo,Outubro,Medio
-GO,Rio Verde,25.5,1633,Baixo,Setembro,Medio
-MS,Campo Grande,25.5,1508,Baixo,Outubro,Baixo
-GO,Rio Verde,26.1,1657,Baixo,Setembro,Medio
-SC,Lages,15.8,1502,Alto,Outubro,Medio
-SC,Joacaba,19.3,1623,Medio,Setembro,Medio
-MT,Sorriso,26.6,1978,Baixo,Setembro,Medio
-RS,Santa Maria,20.8,1774,Medio,Dezembro,Medio
-SC,Lages,18.3,1611,Alto,Outubro,Medio
-MT,Cuiaba,27.7,1416,Baixo,Dezembro,Medio
-BA,Barreiras,26.7,1231,Baixo,Dezembro,Alto
-PR,Cascavel,22.6,1621,Medio,Novembro,Baixo
-PR,Londrina,22.3,1662,Baixo,Setembro,Medio
-MS,Dourados,22.9,1523,Baixo,Dezembro,Medio
-RS,Pelotas,19.3,1674,Baixo,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,26.7,1192,Baixo,Novembro,Medio
-RS,Santa Maria,19.8,1833,Medio,Setembro,Medio
-MT,Sorriso,27.3,1987,Baixo,Dezembro,Medio
-RS,Santa Maria,21.2,1716,Medio,Novembro,Baixo
-BA,Barreiras,24.7,1246,Baixo,Novembro,Medio
-PR,Ponta Grossa,20.9,1534,Medio,Setembro,Medio
-GO,Rio Verde,24.2,1663,Baixo,Novembro,Baixo
-PR,Ponta Grossa,18.3,1593,Medio,Setembro,Medio
-SC,Joacaba,17.4,1708,Medio,Dezembro,Medio
-PR,Londrina,23.3,1626,Baixo,Novembro,Baixo
-PR,Londrina,24.3,1578,Baixo,Dezembro,Medio
-GO,Jatai,25.8,1736,Baixo,Outubro,Baixo
-PR,Guarapuava,16.6,1608,Alto,Novembro,Baixo
-MT,Rondonopolis,27.5,1498,Baixo,Outubro,Baixo
-PR,Cascavel,23.2,1639,Medio,Novembro,Baixo
-PR,Ponta Grossa,20.7,1512,Medio,Setembro,Medio
-SC,Chapeco,20.0,1970,Medio,Outubro,Baixo
-GO,Rio Verde,25.7,1781,Baixo,Setembro,Medio
-SC,Chapeco,19.0,1951,Medio,Outubro,Baixo
-MT,Sorriso,25.0,1961,Baixo,Novembro,Baixo
-PR,Guarapuava,17.9,1726,Alto,Novembro,Baixo
-GO,Rio Verde,26.0,1734,Baixo,Setembro,Medio
-PR,Londrina,23.7,1654,Baixo,Dezembro,Medio
-MT,Sorriso,27.6,1962,Baixo,Setembro,Medio
-MT,Cuiaba,27.8,1443,Baixo,Dezembro,Medio
-RS,Passo Fundo,19.3,1708,Alto,Outubro,Medio
-GO,Rio Verde,25.8,1666,Baixo,Dezembro,Medio
-MT,Sorriso,26.4,1991,Baixo,Outubro,Baixo
-MT,Rondonopolis,25.5,1305,Baixo,Novembro,Medio
-SC,Chapeco,20.5,1971,Medio,Setembro,Medio
-BA,Luis Eduardo Magalhaes,26.6,1133,Baixo,Novembro,Medio
-GO,Rio Verde,25.1,1632,Baixo,Setembro,Medio
-MT,Cuiaba,29.4,1464,Baixo,Novembro,Medio
-MT,Cuiaba,28.5,1498,Baixo,Setembro,Medio
-RS,Ijui,19.9,1770,Medio,Dezembro,Medio
-MT,Sorriso,27.7,1945,Baixo,Dezembro,Medio
-GO,Jatai,25.7,1641,Baixo,Outubro,Baixo
-PR,Ponta Grossa,18.8,1511,Medio,Setembro,Medio
-RS,Ijui,18.8,1837,Medio,Dezembro,Medio
-PR,Cascavel,22.8,1719,Medio,Dezembro,Medio
-MT,Rondonopolis,26.2,1371,Baixo,Dezembro,Medio
-MS,Campo Grande,24.9,1449,Baixo,Dezembro,Medio
-BA,Barreiras,24.6,1384,Baixo,Outubro,Medio
-SC,Joacaba,19.6,1791,Medio,Setembro,Medio
-BA,Luis Eduardo Magalhaes,26.4,1177,Baixo,Dezembro,Alto
-PR,Guarapuava,16.5,1730,Alto,Outubro,Medio
-BA,Luis Eduardo Magalhaes,25.8,1293,Baixo,Outubro,Medio
-PR,Londrina,22.2,1661,Baixo,Outubro,Baixo
-BA,Luis Eduardo Magalhaes,25.0,1154,Baixo,Novembro,Medio
-SC,Lages,17.9,1540,Alto,Outubro,Medio
-MT,Sinop,27.2,2056,Baixo,Outubro,Baixo
-GO,Rio Verde,23.9,1694,Baixo,Dezembro,Medio
-SC,Chapeco,21.1,1817,Medio,Outubro,Baixo
-PR,Ponta Grossa,19.7,1612,Medio,Outubro,Baixo
-SC,Joacaba,18.7,1781,Medio,Novembro,Baixo
-MS,Dourados,25.0,1470,Baixo,Dezembro,Medio
-BA,Luis Eduardo Magalhaes,26.2,1230,Baixo,Novembro,Medio
-MT,Rondonopolis,26.9,1355,Baixo,Novembro,Medio
-BA,Barreiras,25.6,1353,Baixo,Dezembro,Medio
-RS,Santa Maria,18.8,1730,Medio,Outubro,Baixo
-MT,Rondonopolis,25.9,1337,Baixo,Setembro,Medio
-SC,Chapeco,18.9,1833,Medio,Setembro,Medio
-MT,Cuiaba,29.3,1456,Baixo,Setembro,Medio
-MS,Dourados,22.9,1444,Baixo,Outubro,Baixo
-BA,Luis Eduardo Magalhaes,25.4,1180,Baixo,Dezembro,Alto
-GO,Rio Verde,25.1,1620,Baixo,Novembro,Baixo
-BA,Barreiras,27.3,1252,Baixo,Novembro,Medio
-RS,Santa Maria,19.6,1792,Medio,Outubro,Baixo
-MS,Dourados,23.0,1496,Baixo,Novembro,Baixo
-GO,Jatai,25.5,1667,Baixo,Dezembro,Medio
-MT,Cuiaba,27.8,1489,Baixo,Dezembro,Medio
-MT,Cuiaba,26.8,1317,Baixo,Dezembro,Medio
-SC,Chapeco,21.2,1804,Medio,Novembro,Baixo
-GO,Jatai,25.1,1741,Baixo,Novembro,Baixo
-BA,Barreiras,25.9,1331,Baixo,Dezembro,Medio
-MS,Dourados,22.9,1417,Baixo,Outubro,Baixo
-SC,Joacaba,17.5,1727,Medio,Novembro,Baixo
-PR,Ponta Grossa,20.0,1594,Medio,Dezembro,Medio
-BA,Barreiras,26.1,1255,Baixo,Dezembro,Alto
-RS,Passo Fundo,18.9,1760,Alto,Novembro,Baixo
-MT,Sorriso,25.6,1807,Baixo,Novembro,Baixo
-MT,Cuiaba,27.2,1423,Baixo,Outubro,Baixo
-MT,Cuiaba,28.5,1438,Baixo,Novembro,Medio
-RS,Ijui,18.3,1876,Medio,Setembro,Medio
-MS,Dourados,24.5,1546,Baixo,Novembro,Baixo
-PR,Cascavel,22.9,1748,Medio,Dezembro,Medio
-MS,Campo Grande,25.0,1476,Baixo,Setembro,Medio
-MT,Sinop,27.6,2033,Baixo,Novembro,Baixo
-MS,Campo Grande,25.5,1543,Baixo,Dezembro,Medio
-MT,Sorriso,26.7,1947,Baixo,Setembro,Medio
-PR,Guarapuava,16.8,1646,Alto,Novembro,Baixo
-MT,Rondonopolis,25.1,1340,Baixo,Dezembro,Medio
-SC,Lages,18.2,1550,Alto,Setembro,Alto
-GO,Jatai,25.2,1618,Baixo,Dezembro,Medio
-MT,Cuiaba,28.1,1380,Baixo,Setembro,Medio
-MT,Cuiaba,27.7,1367,Baixo,Dezembro,Medio
-PR,Guarapuava,16.6,1716,Alto,Dezembro,Medio
-MT,Sorriso,26.0,1814,Baixo,Setembro,Medio
-RS,Passo Fundo,18.4,1782,Alto,Setembro,Alto
-RS,Ijui,19.6,1770,Medio,Novembro,Baixo
-PR,Ponta Grossa,19.6,1623,Medio,Outubro,Baixo
-SC,Lages,18.0,1573,Alto,Novembro,Baixo
-PR,Ponta Grossa,20.8,1518,Medio,Novembro,Baixo
-BA,Barreiras,26.8,1368,Baixo,Outubro,Medio
-MS,Campo Grande,24.8,1537,Baixo,Setembro,Medio
-PR,Guarapuava,17.0,1585,Alto,Setembro,Alto
-RS,Santa Maria,20.3,1750,Medio,Dezembro,Medio
-PR,Cascavel,22.6,1798,Medio,Dezembro,Medio
-MT,Cuiaba,26.7,1349,Baixo,Outubro,Medio
-MT,Cuiaba,27.4,1444,Baixo,Dezembro,Medio
-MS,Dourados,22.7,1574,Baixo,Setembro,Medio
-PR,Cascavel,21.1,1652,Medio,Outubro,Baixo
-MT,Cuiaba,29.1,1447,Baixo,Setembro,Medio
-MS,Dourados,25.1,1504,Baixo,Dezembro,Medio
-GO,Jatai,24.2,1655,Baixo,Setembro,Medio
-MT,Sinop,25.7,1985,Baixo,Outubro,Baixo
-RS,Passo Fundo,17.0,1889,Alto,Novembro,Baixo
-MT,Sorriso,26.6,1830,Baixo,Dezembro,Medio
-MT,Rondonopolis,25.1,1493,Baixo,Setembro,Medio
-SC,Joacaba,17.6,1703,Medio,Outubro,Baixo
-BA,Luis Eduardo Magalhaes,25.6,1201,Baixo,Novembro,Medio
-MS,Campo Grande,25.5,1537,Baixo,Setembro,Medio
-GO,Jatai,23.7,1667,Baixo,Outubro,Baixo
-MS,Campo Grande,23.9,1418,Baixo,Novembro,Baixo
-MS,Dourados,23.4,1548,Baixo,Outubro,Baixo
-PR,Cascavel,22.4,1720,Medio,Setembro,Medio
-PR,Londrina,24.2,1628,Baixo,Novembro,Baixo
-RS,Santa Maria,20.0,1657,Medio,Outubro,Baixo
-SC,Lages,17.1,1675,Alto,Outubro,Medio
-PR,Ponta Grossa,20.9,1546,Medio,Outubro,Baixo
-MT,Rondonopolis,25.4,1385,Baixo,Outubro,Medio
-GO,Rio Verde,25.2,1736,Baixo,Setembro,Medio
-SC,Lages,17.0,1601,Alto,Novembro,Baixo
-RS,Santa Maria,20.1,1829,Medio,Novembro,Baixo
-MS,Dourados,24.2,1499,Baixo,Outubro,Baixo
-BA,Barreiras,25.4,1224,Baixo,Outubro,Medio
-GO,Jatai,23.4,1687,Baixo,Dezembro,Medio
-BA,Barreiras,25.0,1311,Baixo,Setembro,Medio
-PR,Londrina,22.3,1671,Baixo,Novembro,Baixo
-RS,Pelotas,18.5,1661,Baixo,Novembro,Baixo
-BA,Barreiras,24.9,1225,Baixo,Outubro,Medio
-RS,Ijui,19.2,1802,Medio,Setembro,Medio
-BA,Luis Eduardo Magalhaes,24.1,1198,Baixo,Dezembro,Alto
-PR,Londrina,22.0,1632,Baixo,Dezembro,Medio
-MT,Rondonopolis,24.9,1475,Baixo,Dezembro,Medio
-MT,Sinop,27.9,1944,Baixo,Setembro,Medio
-RS,Santa Maria,19.3,1670,Medio,Outubro,Baixo
-RS,Santa Maria,20.4,1656,Medio,Dezembro,Medio
-MT,Sinop,26.5,1997,Baixo,Dezembro,Medio
-RS,Passo Fundo,19.4,1843,Alto,Outubro,Medio
-MT,Sinop,26.6,2056,Baixo,Outubro,Baixo
-GO,Rio Verde,25.5,1766,Baixo,Dezembro,Medio
-MT,Sinop,27.2,1903,Baixo,Outubro,Baixo
-MT,Sorriso,27.1,1876,Baixo,Dezembro,Medio
-SC,Joacaba,18.2,1791,Medio,Novembro,Baixo
-PR,Londrina,22.5,1503,Baixo,Novembro,Baixo
-MT,Cuiaba,27.7,1461,Baixo,Novembro,Baixo
-MS,Campo Grande,24.6,1468,Baixo,Setembro,Medio
-MT,Rondonopolis,26.0,1414,Baixo,Setembro,Medio
-SC,Lages,16.5,1635,Alto,Dezembro,Medio
-SC,Joacaba,19.5,1771,Medio,Setembro,Medio
-MS,Dourados,24.6,1500,Baixo,Novembro,Baixo
-MT,Rondonopolis,26.7,1392,Baixo,Novembro,Medio
-MT,Sorriso,27.8,1939,Baixo,Novembro,Baixo
-RS,Passo Fundo,16.7,1773,Alto,Novembro,Baixo
-SC,Lages,17.6,1641,Alto,Setembro,Alto
-SC,Joacaba,18.6,1730,Medio,Dezembro,Medio
-MT,Rondonopolis,26.2,1364,Baixo,Outubro,Medio
-RS,Passo Fundo,17.9,1827,Alto,Dezembro,Medio
-MS,Campo Grande,24.9,1502,Baixo,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,25.8,1113,Baixo,Outubro,Medio
-SC,Joacaba,18.9,1645,Medio,Setembro,Medio
-RS,Ijui,19.1,1818,Medio,Novembro,Baixo
-RS,Passo Fundo,16.7,1800,Alto,Outubro,Medio
-RS,Ijui,18.7,1799,Medio,Setembro,Medio
-SC,Lages,16.4,1587,Alto,Setembro,Alto
-BA,Luis Eduardo Magalhaes,26.3,1262,Baixo,Dezembro,Alto
-RS,Santa Maria,20.0,1831,Medio,Outubro,Baixo
-GO,Rio Verde,24.2,1706,Baixo,Setembro,Medio
-SC,Chapeco,20.5,1835,Medio,Dezembro,Medio
-MS,Dourados,25.3,1473,Baixo,Dezembro,Medio
-PR,Londrina,24.1,1599,Baixo,Novembro,Baixo
-GO,Rio Verde,24.5,1670,Baixo,Setembro,Medio
-BA,Barreiras,25.3,1356,Baixo,Outubro,Medio
-MT,Rondonopolis,25.4,1478,Baixo,Dezembro,Medio
-BA,Luis Eduardo Magalhaes,26.2,1280,Baixo,Novembro,Medio
-PR,Londrina,23.9,1597,Baixo,Setembro,Medio
-PR,Guarapuava,17.4,1617,Alto,Setembro,Alto
-GO,Rio Verde,26.1,1750,Baixo,Outubro,Baixo
-RS,Ijui,18.4,1844,Medio,Setembro,Medio
-MT,Sinop,26.4,1930,Baixo,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,25.3,1275,Baixo,Novembro,Medio
-GO,Jatai,24.3,1650,Baixo,Setembro,Medio
-MT,Cuiaba,29.5,1365,Baixo,Outubro,Medio
-MT,Sorriso,26.8,1964,Baixo,Setembro,Medio
-RS,Passo Fundo,19.0,1754,Alto,Novembro,Baixo
-MT,Cuiaba,26.9,1336,Baixo,Outubro,Medio
-RS,Passo Fundo,18.0,1863,Alto,Setembro,Alto
-MT,Sinop,27.9,1945,Baixo,Dezembro,Medio
-GO,Jatai,24.4,1597,Baixo,Dezembro,Medio
-MT,Cuiaba,28.4,1374,Baixo,Dezembro,Medio
-MT,Sorriso,26.1,1891,Baixo,Dezembro,Medio
-PR,Ponta Grossa,18.5,1519,Medio,Setembro,Medio
-PR,Guarapuava,18.3,1593,Alto,Novembro,Baixo
-MT,Sinop,25.8,1901,Baixo,Dezembro,Medio
-SC,Joacaba,17.2,1763,Medio,Dezembro,Medio
-SC,Lages,17.4,1608,Alto,Dezembro,Medio
-PR,Cascavel,20.5,1656,Medio,Dezembro,Medio
-GO,Rio Verde,26.3,1615,Baixo,Setembro,Medio
-PR,Cascavel,20.8,1751,Medio,Novembro,Baixo
-GO,Jatai,23.1,1654,Baixo,Setembro,Medio
-MS,Dourados,25.4,1574,Baixo,Setembro,Medio
-GO,Rio Verde,25.7,1764,Baixo,Novembro,Baixo
-MT,Cuiaba,28.9,1474,Baixo,Outubro,Medio
-PR,Guarapuava,17.1,1612,Alto,Dezembro,Medio
-SC,Joacaba,19.7,1663,Medio,Dezembro,Medio
-BA,Barreiras,24.6,1330,Baixo,Novembro,Medio
-PR,Londrina,21.8,1631,Baixo,Novembro,Baixo
-RS,Santa Maria,19.9,1708,Medio,Outubro,Baixo
-PR,Ponta Grossa,19.7,1475,Medio,Setembro,Medio
-RS,Ijui,20.0,1904,Medio,Setembro,Medio
-MS,Campo Grande,25.6,1486,Baixo,Setembro,Medio
-MT,Sorriso,26.0,1868,Baixo,Dezembro,Medio
-MS,Dourados,22.5,1560,Baixo,Setembro,Medio
-RS,Santa Maria,19.6,1763,Medio,Outubro,Baixo
-MT,Rondonopolis,26.1,1320,Baixo,Novembro,Medio
-RS,Passo Fundo,17.3,1700,Alto,Dezembro,Medio
-PR,Ponta Grossa,19.5,1521,Medio,Dezembro,Medio
-SC,Joacaba,19.5,1759,Medio,Setembro,Medio
-PR,Guarapuava,19.2,1734,Alto,Outubro,Medio
-RS,Santa Maria,21.4,1840,Medio,Outubro,Baixo
-BA,Luis Eduardo Magalhaes,26.3,1213,Baixo,Setembro,Medio
-MT,Cuiaba,27.1,1326,Baixo,Novembro,Medio
-BA,Luis Eduardo Magalhaes,24.8,1210,Baixo,Dezembro,Alto
-MT,Rondonopolis,26.6,1489,Baixo,Novembro,Baixo
-RS,Ijui,18.5,1864,Medio,Novembro,Baixo
-SC,Lages,16.2,1520,Alto,Outubro,Medio
-PR,Londrina,23.5,1504,Baixo,Outubro,Baixo
-RS,Pelotas,17.7,1614,Baixo,Setembro,Medio
-GO,Jatai,23.4,1696,Baixo,Setembro,Medio
-RS,Pelotas,18.0,1524,Baixo,Dezembro,Medio
-PR,Ponta Grossa,19.4,1564,Medio,Dezembro,Medio
-SC,Joacaba,17.5,1678,Medio,Novembro,Baixo
-BA,Barreiras,27.3,1216,Baixo,Dezembro,Alto
-BA,Barreiras,25.3,1286,Baixo,Outubro,Medio
-MS,Dourados,24.4,1464,Baixo,Outubro,Baixo
-MS,Campo Grande,24.1,1542,Baixo,Dezembro,Medio
-MT,Rondonopolis,27.4,1450,Baixo,Outubro,Baixo
-GO,Jatai,23.2,1636,Baixo,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,24.5,1102,Baixo,Outubro,Medio
-SC,Joacaba,19.9,1621,Medio,Dezembro,Medio
-PR,Cascavel,20.8,1795,Medio,Setembro,Medio
-PR,Ponta Grossa,18.9,1534,Medio,Novembro,Baixo
-PR,Londrina,22.5,1683,Baixo,Novembro,Baixo
-SC,Lages,17.2,1568,Alto,Dezembro,Medio
-MT,Rondonopolis,26.0,1335,Baixo,Setembro,Medio
-PR,Ponta Grossa,20.7,1497,Medio,Setembro,Medio
-MT,Sinop,27.3,1970,Baixo,Setembro,Medio
-MT,Cuiaba,29.4,1351,Baixo,Dezembro,Medio
-PR,Guarapuava,18.4,1600,Alto,Dezembro,Medio
-MT,Rondonopolis,25.4,1456,Baixo,Novembro,Baixo
-MS,Campo Grande,24.3,1420,Baixo,Setembro,Medio
-BA,Luis Eduardo Magalhaes,24.2,1257,Baixo,Setembro,Medio
-PR,Londrina,22.6,1549,Baixo,Outubro,Baixo
-MT,Sinop,26.3,1994,Baixo,Setembro,Medio
-RS,Santa Maria,18.7,1713,Medio,Novembro,Baixo
-PR,Guarapuava,17.4,1712,Alto,Setembro,Alto
-RS,Ijui,20.8,1898,Medio,Dezembro,Medio
-MT,Sinop,26.7,1934,Baixo,Outubro,Baixo
-SC,Chapeco,21.2,1913,Medio,Outubro,Baixo
-PR,Londrina,23.6,1640,Baixo,Dezembro,Medio
-BA,Luis Eduardo Magalhaes,24.6,1159,Baixo,Dezembro,Alto
-RS,Passo Fundo,19.2,1892,Alto,Setembro,Alto
-PR,Cascavel,20.9,1639,Medio,Setembro,Medio
-RS,Ijui,19.6,1761,Medio,Outubro,Baixo
-MT,Sorriso,25.6,1942,Baixo,Outubro,Baixo
-RS,Ijui,18.2,1835,Medio,Dezembro,Medio
-BA,Luis Eduardo Magalhaes,24.6,1150,Baixo,Outubro,Medio
-MT,Rondonopolis,27.5,1478,Baixo,Setembro,Medio
-BA,Barreiras,27.2,1299,Baixo,Novembro,Medio
-PR,Guarapuava,16.6,1554,Alto,Dezembro,Medio
-RS,Ijui,19.4,1824,Medio,Novembro,Baixo
-MT,Sorriso,25.9,1882,Baixo,Setembro,Medio
-RS,Ijui,19.4,1789,Medio,Novembro,Baixo
-GO,Jatai,23.2,1728,Baixo,Outubro,Baixo
-PR,Guarapuava,17.4,1604,Alto,Setembro,Alto
-MS,Campo Grande,26.2,1367,Baixo,Novembro,Medio
-MT,Cuiaba,26.8,1348,Baixo,Outubro,Medio
-MS,Dourados,22.5,1546,Baixo,Outubro,Baixo
-PR,Ponta Grossa,18.1,1611,Medio,Novembro,Baixo
-SC,Lages,16.0,1531,Alto,Outubro,Medio
-SC,Lages,18.0,1659,Alto,Dezembro,Medio
-SC,Joacaba,19.3,1716,Medio,Setembro,Medio
-MS,Campo Grande,23.8,1439,Baixo,Novembro,Baixo
-MT,Rondonopolis,25.4,1382,Baixo,Outubro,Medio
-PR,Londrina,22.9,1586,Baixo,Outubro,Baixo
-GO,Jatai,24.0,1585,Baixo,Novembro,Baixo
-MS,Dourados,24.3,1533,Baixo,Dezembro,Medio
-SC,Chapeco,21.1,1887,Medio,Setembro,Medio
-MT,Cuiaba,26.6,1476,Baixo,Outubro,Baixo
-MT,Sinop,26.1,2078,Baixo,Setembro,Medio
-BA,Luis Eduardo Magalhaes,25.1,1193,Baixo,Setembro,Medio
-PR,Londrina,22.3,1668,Baixo,Novembro,Baixo
-PR,Ponta Grossa,20.6,1513,Medio,Dezembro,Medio
-PR,Guarapuava,17.8,1639,Alto,Setembro,Alto
-SC,Joacaba,17.5,1654,Medio,Dezembro,Medio
-MS,Dourados,23.8,1576,Baixo,Outubro,Baixo
-RS,Ijui,20.8,1883,Medio,Outubro,Baixo
-PR,Cascavel,22.1,1726,Medio,Novembro,Baixo
-MS,Campo Grande,25.8,1536,Baixo,Novembro,Baixo
-MT,Sinop,27.3,1937,Baixo,Novembro,Baixo
-MS,Campo Grande,24.2,1422,Baixo,Dezembro,Medio
-SC,Lages,16.5,1661,Alto,Dezembro,Medio
-MT,Cuiaba,28.7,1307,Baixo,Setembro,Medio
-RS,Pelotas,18.2,1686,Baixo,Outubro,Baixo
-GO,Rio Verde,26.1,1613,Baixo,Outubro,Baixo
-RS,Ijui,20.1,1936,Medio,Setembro,Medio
-PR,Guarapuava,18.0,1704,Alto,Outubro,Medio
-BA,Barreiras,25.6,1267,Baixo,Novembro,Medio
-MS,Campo Grande,23.8,1518,Baixo,Dezembro,Medio
-GO,Jatai,23.6,1577,Baixo,Dezembro,Medio
-RS,Santa Maria,19.1,1798,Medio,Novembro,Baixo
-PR,Ponta Grossa,18.7,1527,Medio,Novembro,Baixo
-SC,Joacaba,18.3,1601,Medio,Outubro,Baixo
-GO,Rio Verde,25.3,1621,Baixo,Novembro,Baixo
-MS,Dourados,24.5,1454,Baixo,Novembro,Baixo
-RS,Pelotas,18.6,1672,Baixo,Outubro,Baixo
-PR,Cascavel,22.1,1682,Medio,Dezembro,Medio
-RS,Ijui,18.3,1880,Medio,Dezembro,Medio
-MS,Campo Grande,26.2,1528,Baixo,Dezembro,Medio
-SC,Chapeco,18.7,1946,Medio,Dezembro,Medio
-MT,Cuiaba,28.7,1302,Baixo,Outubro,Medio
-PR,Ponta Grossa,19.8,1522,Medio,Setembro,Medio
-RS,Ijui,19.4,1904,Medio,Outubro,Baixo
-PR,Londrina,23.5,1583,Baixo,Outubro,Baixo
-MT,Sinop,26.0,1978,Baixo,Outubro,Baixo
-RS,Ijui,19.0,1920,Medio,Novembro,Baixo
-PR,Ponta Grossa,18.4,1555,Medio,Setembro,Medio
-BA,Barreiras,27.2,1205,Baixo,Setembro,Medio
-GO,Rio Verde,24.0,1669,Baixo,Dezembro,Medio
-PR,Cascavel,22.9,1773,Medio,Dezembro,Medio
-MS,Dourados,23.6,1425,Baixo,Setembro,Medio
-SC,Chapeco,20.2,1948,Medio,Dezembro,Medio
-RS,Passo Fundo,19.0,1703,Alto,Setembro,Alto
-RS,Ijui,20.6,1944,Medio,Setembro,Medio
-MT,Sinop,26.1,2007,Baixo,Outubro,Baixo
-BA,Barreiras,26.7,1388,Baixo,Setembro,Medio
-MT,Cuiaba,27.9,1390,Baixo,Setembro,Medio
-GO,Jatai,24.3,1582,Baixo,Setembro,Medio
-GO,Jatai,25.6,1701,Baixo,Novembro,Baixo
-SC,Chapeco,20.9,1837,Medio,Novembro,Baixo
-RS,Passo Fundo,18.2,1770,Alto,Setembro,Alto
-PR,Ponta Grossa,18.4,1558,Medio,Setembro,Medio
-MT,Rondonopolis,27.0,1430,Baixo,Outubro,Baixo
-PR,Cascavel,23.4,1626,Medio,Outubro,Baixo
-RS,Pelotas,18.1,1680,Baixo,Novembro,Baixo
-MS,Campo Grande,24.5,1532,Baixo,Dezembro,Medio
-MS,Campo Grande,23.6,1420,Baixo,Dezembro,Medio
-MT,Sorriso,26.8,1918,Baixo,Dezembro,Medio
-PR,Cascavel,22.0,1601,Medio,Setembro,Medio
-GO,Jatai,24.2,1633,Baixo,Outubro,Baixo
-BA,Barreiras,25.5,1347,Baixo,Setembro,Medio
-PR,Cascavel,22.5,1767,Medio,Setembro,Medio
-MT,Cuiaba,26.9,1392,Baixo,Setembro,Medio
-PR,Cascavel,22.2,1768,Medio,Setembro,Medio
-MS,Dourados,24.8,1504,Baixo,Setembro,Medio
-MT,Cuiaba,29.3,1338,Baixo,Novembro,Medio
-PR,Guarapuava,19.4,1615,Alto,Dezembro,Medio
-MS,Dourados,25.1,1504,Baixo,Setembro,Medio
-RS,Ijui,18.8,1834,Medio,Dezembro,Medio
-RS,Pelotas,20.2,1577,Baixo,Setembro,Medio
-PR,Cascavel,23.4,1678,Medio,Setembro,Medio
-MT,Rondonopolis,27.2,1306,Baixo,Dezembro,Medio
-PR,Guarapuava,17.8,1634,Alto,Novembro,Baixo
-GO,Jatai,23.3,1652,Baixo,Dezembro,Medio
-RS,Santa Maria,20.2,1811,Medio,Outubro,Baixo
-BA,Barreiras,26.1,1315,Baixo,Outubro,Medio
-RS,Santa Maria,19.8,1726,Medio,Setembro,Medio
-PR,Londrina,23.8,1638,Baixo,Novembro,Baixo
-PR,Guarapuava,16.5,1592,Alto,Setembro,Alto
-MS,Campo Grande,25.1,1361,Baixo,Setembro,Medio
-MS,Dourados,22.5,1591,Baixo,Setembro,Medio
-MT,Cuiaba,27.4,1382,Baixo,Novembro,Medio
-MT,Sorriso,26.8,1888,Baixo,Outubro,Baixo
-RS,Passo Fundo,17.4,1890,Alto,Outubro,Medio
-SC,Lages,18.4,1621,Alto,Setembro,Alto
-MT,Rondonopolis,26.6,1339,Baixo,Novembro,Medio
-MT,Rondonopolis,26.3,1382,Baixo,Dezembro,Medio
-MT,Cuiaba,28.0,1483,Baixo,Novembro,Baixo
-MT,Sorriso,26.2,1834,Baixo,Outubro,Baixo
-SC,Lages,15.6,1552,Alto,Setembro,Alto
-RS,Ijui,18.3,1873,Medio,Outubro,Baixo
-MS,Campo Grande,25.5,1517,Baixo,Novembro,Baixo
-SC,Joacaba,18.0,1661,Medio,Novembro,Baixo
-MT,Sinop,26.8,2048,Baixo,Novembro,Baixo
-BA,Barreiras,24.5,1357,Baixo,Setembro,Medio
-RS,Pelotas,17.5,1643,Baixo,Outubro,Baixo
-RS,Passo Fundo,19.2,1816,Alto,Dezembro,Medio
-PR,Guarapuava,19.1,1593,Alto,Outubro,Medio
-MS,Campo Grande,24.2,1540,Baixo,Dezembro,Medio
-MS,Dourados,24.9,1507,Baixo,Setembro,Medio
-SC,Lages,16.9,1606,Alto,Outubro,Medio
-MS,Campo Grande,25.7,1473,Baixo,Novembro,Baixo
-MT,Cuiaba,27.4,1312,Baixo,Setembro,Medio
-SC,Chapeco,20.8,1869,Medio,Novembro,Baixo
-MT,Sorriso,25.5,1852,Baixo,Novembro,Baixo
-MT,Sorriso,26.7,1908,Baixo,Setembro,Medio
-BA,Barreiras,25.7,1326,Baixo,Outubro,Medio
-PR,Ponta Grossa,19.2,1522,Medio,Outubro,Baixo
-RS,Pelotas,18.6,1616,Baixo,Novembro,Baixo
-SC,Chapeco,20.4,1962,Medio,Setembro,Medio
-MT,Sinop,27.6,2093,Baixo,Novembro,Baixo
-GO,Rio Verde,26.0,1643,Baixo,Dezembro,Medio
-MT,Rondonopolis,25.5,1478,Baixo,Setembro,Medio
-RS,Santa Maria,19.9,1679,Medio,Novembro,Baixo
-RS,Santa Maria,19.1,1727,Medio,Dezembro,Medio
-PR,Londrina,24.1,1573,Baixo,Setembro,Medio
-BA,Barreiras,24.5,1228,Baixo,Novembro,Medio
-MT,Rondonopolis,24.6,1487,Baixo,Dezembro,Medio
-RS,Passo Fundo,18.7,1738,Alto,Dezembro,Medio
-GO,Jatai,24.0,1551,Baixo,Dezembro,Medio
-PR,Guarapuava,16.8,1589,Alto,Outubro,Medio
-BA,Barreiras,27.3,1264,Baixo,Novembro,Medio
-GO,Jatai,24.4,1725,Baixo,Outubro,Baixo
-SC,Joacaba,17.1,1690,Medio,Setembro,Medio
-BA,Barreiras,27.3,1336,Baixo,Dezembro,Medio
-GO,Rio Verde,25.3,1605,Baixo,Novembro,Baixo
-MS,Campo Grande,23.7,1379,Baixo,Dezembro,Medio
-MT,Cuiaba,27.0,1334,Baixo,Outubro,Medio
-PR,Londrina,22.2,1516,Baixo,Novembro,Baixo
-SC,Lages,17.0,1588,Alto,Setembro,Alto
-MS,Dourados,23.9,1577,Baixo,Novembro,Baixo
-SC,Lages,16.7,1599,Alto,Setembro,Alto
-RS,Passo Fundo,18.5,1842,Alto,Setembro,Alto
-MS,Dourados,24.6,1572,Baixo,Novembro,Baixo
-GO,Rio Verde,25.9,1684,Baixo,Setembro,Medio
-SC,Lages,17.4,1645,Alto,Dezembro,Medio
-PR,Cascavel,22.6,1608,Medio,Outubro,Baixo
-SC,Lages,16.5,1646,Alto,Dezembro,Medio
-SC,Joacaba,20.0,1740,Medio,Outubro,Baixo
-MT,Rondonopolis,25.7,1359,Baixo,Dezembro,Medio
-MS,Campo Grande,26.0,1468,Baixo,Outubro,Baixo
-MT,Sinop,25.7,1913,Baixo,Novembro,Baixo
-MT,Sorriso,27.3,1943,Baixo,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,26.8,1282,Baixo,Novembro,Medio
-GO,Rio Verde,23.8,1749,Baixo,Setembro,Medio
-MS,Dourados,23.9,1535,Baixo,Novembro,Baixo
-GO,Rio Verde,25.2,1605,Baixo,Novembro,Baixo
-RS,Pelotas,18.5,1665,Baixo,Novembro,Baixo
-RS,Ijui,19.0,1821,Medio,Outubro,Baixo
-RS,Santa Maria,20.8,1709,Medio,Outubro,Baixo
-PR,Guarapuava,16.8,1690,Alto,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,25.2,1296,Baixo,Outubro,Medio
-BA,Luis Eduardo Magalhaes,26.8,1176,Baixo,Dezembro,Alto
-SC,Lages,16.2,1663,Alto,Setembro,Alto
-SC,Lages,18.2,1656,Alto,Dezembro,Medio
-PR,Cascavel,21.5,1674,Medio,Dezembro,Medio
-MS,Dourados,22.6,1584,Baixo,Novembro,Baixo
-BA,Barreiras,26.2,1360,Baixo,Novembro,Medio
-GO,Rio Verde,23.9,1777,Baixo,Novembro,Baixo
-RS,Passo Fundo,18.8,1774,Alto,Dezembro,Medio
-RS,Pelotas,18.4,1537,Baixo,Outubro,Baixo
-PR,Cascavel,21.6,1635,Medio,Dezembro,Medio
-MT,Rondonopolis,27.2,1483,Baixo,Novembro,Baixo
-MT,Sinop,26.9,2029,Baixo,Dezembro,Medio
-PR,Ponta Grossa,20.1,1580,Medio,Dezembro,Medio
-MT,Rondonopolis,25.5,1322,Baixo,Dezembro,Medio
-PR,Ponta Grossa,20.6,1603,Medio,Novembro,Baixo
-MT,Rondonopolis,25.1,1496,Baixo,Setembro,Medio
-BA,Luis Eduardo Magalhaes,25.2,1262,Baixo,Dezembro,Alto
-MT,Sinop,27.3,2069,Baixo,Dezembro,Medio
-PR,Guarapuava,19.1,1735,Alto,Setembro,Alto
-PR,Cascavel,23.2,1724,Medio,Novembro,Baixo
-SC,Lages,17.0,1518,Alto,Setembro,Alto
-SC,Joacaba,17.5,1752,Medio,Dezembro,Medio
-MS,Dourados,22.5,1545,Baixo,Dezembro,Medio
-RS,Passo Fundo,17.6,1835,Alto,Dezembro,Medio
-MS,Campo Grande,26.3,1351,Baixo,Setembro,Medio
-MT,Cuiaba,26.6,1331,Baixo,Outubro,Medio
-MS,Campo Grande,23.8,1491,Baixo,Novembro,Baixo
-SC,Lages,16.0,1691,Alto,Novembro,Baixo
-GO,Jatai,25.8,1615,Baixo,Novembro,Baixo
-RS,Santa Maria,18.7,1711,Medio,Outubro,Baixo
-GO,Rio Verde,24.9,1630,Baixo,Novembro,Baixo
-MT,Cuiaba,27.5,1396,Baixo,Novembro,Medio
-MS,Campo Grande,25.0,1452,Baixo,Setembro,Medio
-SC,Chapeco,21.0,1895,Medio,Novembro,Baixo
-RS,Santa Maria,20.4,1652,Medio,Setembro,Medio
+GO,Jatai,25.5,1624,Baixo,Novembro,Baixo
+PR,Londrina,23.0,1542,Baixo,Dezembro,Medio
+PR,Londrina,22.5,1630,Baixo,Setembro,Medio
+RS,Passo Fundo,17.9,1813,Alto,Setembro,Alto
+GO,Jatai,24.5,1629,Baixo,Outubro,Baixo
+GO,Rio Verde,25.7,1710,Baixo,Novembro,Baixo
+PR,Ponta Grossa,18.7,1572,Medio,Dezembro,Medio
+MT,Cuiaba,28.0,1461,Baixo,Novembro,Baixo
+SC,Joacaba,18.1,1647,Medio,Dezembro,Medio
+RS,Passo Fundo,19.3,1797,Alto,Outubro,Medio
+GO,Jatai,23.4,1744,Baixo,Novembro,Baixo
+RS,Passo Fundo,18.4,1755,Alto,Outubro,Medio
+PR,Cascavel,22.2,1759,Medio,Outubro,Baixo
+BA,Barreiras,24.9,1350,Baixo,Dezembro,Medio
+MT,Sinop,26.6,2006,Baixo,Dezembro,Medio
+GO,Rio Verde,24.6,1670,Baixo,Dezembro,Medio
+RS,Ijui,20.7,1809,Medio,Outubro,Baixo
+MS,Dourados,24.1,1403,Baixo,Novembro,Baixo
+RS,Passo Fundo,17.2,1747,Alto,Dezembro,Medio
+MT,Cuiaba,28.4,1449,Baixo,Setembro,Medio
+PR,Cascavel,21.7,1759,Medio,Dezembro,Medio
+RS,Pelotas,18.3,1581,Baixo,Novembro,Baixo
+BA,Barreiras,25.6,1304,Baixo,Outubro,Medio
+RS,Ijui,20.4,1900,Medio,Dezembro,Medio
+MT,Sinop,27.5,2048,Baixo,Outubro,Baixo
+MT,Rondonopolis,25.6,1308,Baixo,Dezembro,Medio
+MT,Rondonopolis,26.6,1459,Baixo,Outubro,Baixo
+MT,Rondonopolis,25.8,1381,Baixo,Outubro,Medio
+GO,Jatai,25.3,1648,Baixo,Novembro,Baixo
+PR,Londrina,21.9,1634,Baixo,Dezembro,Medio
+RS,Pelotas,18.2,1680,Baixo,Novembro,Baixo
+RS,Passo Fundo,16.7,1752,Alto,Outubro,Medio
+PR,Ponta Grossa,20.7,1461,Medio,Setembro,Medio
+MS,Dourados,23.8,1476,Baixo,Novembro,Baixo
+RS,Santa Maria,20.1,1805,Medio,Outubro,Baixo
+PR,Cascavel,23.3,1641,Medio,Outubro,Baixo
+PR,Cascavel,22.1,1679,Medio,Setembro,Medio
+PR,Cascavel,21.9,1796,Medio,Setembro,Medio
+MS,Campo Grande,24.0,1361,Baixo,Setembro,Medio
+SC,Joacaba,17.9,1799,Medio,Dezembro,Medio
+MS,Campo Grande,25.9,1405,Baixo,Outubro,Baixo
+MS,Campo Grande,26.3,1377,Baixo,Dezembro,Medio
+MT,Sorriso,26.7,1918,Baixo,Novembro,Baixo
+SC,Lages,18.0,1625,Alto,Dezembro,Medio
+RS,Ijui,18.8,1883,Medio,Outubro,Baixo
+BA,Luis Eduardo Magalhaes,25.7,1146,Baixo,Novembro,Medio
+RS,Pelotas,18.8,1629,Baixo,Dezembro,Medio
+MS,Dourados,22.7,1532,Baixo,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,24.2,1157,Baixo,Setembro,Medio
+BA,Barreiras,26.9,1265,Baixo,Novembro,Medio
+BA,Luis Eduardo Magalhaes,24.3,1142,Baixo,Outubro,Medio
+SC,Chapeco,19.4,1928,Medio,Novembro,Baixo
+PR,Ponta Grossa,19.0,1469,Medio,Setembro,Medio
+RS,Santa Maria,19.4,1729,Medio,Novembro,Baixo
+SC,Joacaba,17.9,1694,Medio,Dezembro,Medio
+MT,Sinop,28.4,1925,Baixo,Dezembro,Medio
+RS,Passo Fundo,18.7,1821,Alto,Novembro,Baixo
+RS,Ijui,19.4,1826,Medio,Outubro,Baixo
+SC,Joacaba,18.4,1770,Medio,Dezembro,Medio
+MS,Campo Grande,25.4,1496,Baixo,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,24.3,1121,Baixo,Setembro,Medio
+RS,Passo Fundo,19.1,1754,Alto,Outubro,Medio
+MT,Cuiaba,26.5,1329,Baixo,Dezembro,Medio
+MS,Campo Grande,23.5,1411,Baixo,Outubro,Baixo
+BA,Luis Eduardo Magalhaes,25.6,1164,Baixo,Outubro,Medio
+BA,Barreiras,26.7,1323,Baixo,Novembro,Medio
+RS,Santa Maria,21.3,1772,Medio,Novembro,Baixo
+PR,Cascavel,21.0,1725,Medio,Dezembro,Medio
+MS,Dourados,23.4,1567,Baixo,Dezembro,Medio
+RS,Pelotas,19.3,1558,Baixo,Dezembro,Medio
+SC,Chapeco,20.4,1923,Medio,Dezembro,Medio
+RS,Santa Maria,21.3,1805,Medio,Outubro,Baixo
+MS,Campo Grande,25.7,1411,Baixo,Novembro,Baixo
+MT,Rondonopolis,26.0,1354,Baixo,Dezembro,Medio
+PR,Ponta Grossa,19.6,1457,Medio,Novembro,Baixo
+MS,Campo Grande,23.7,1537,Baixo,Dezembro,Medio
+SC,Joacaba,19.2,1617,Medio,Novembro,Baixo
+RS,Ijui,19.2,1816,Medio,Setembro,Medio
+MT,Cuiaba,26.7,1357,Baixo,Dezembro,Medio
+SC,Lages,16.0,1657,Alto,Setembro,Alto
+RS,Passo Fundo,18.1,1740,Alto,Outubro,Medio
+SC,Joacaba,17.1,1737,Medio,Outubro,Baixo
+RS,Pelotas,17.8,1641,Baixo,Outubro,Baixo
+PR,Cascavel,21.4,1668,Medio,Outubro,Baixo
+RS,Ijui,18.1,1919,Medio,Novembro,Baixo
+SC,Chapeco,19.0,1819,Medio,Novembro,Baixo
+SC,Lages,15.7,1521,Alto,Novembro,Baixo
+RS,Passo Fundo,18.3,1722,Alto,Dezembro,Medio
+SC,Lages,15.9,1550,Alto,Dezembro,Medio
+MT,Rondonopolis,25.5,1304,Baixo,Outubro,Medio
+BA,Luis Eduardo Magalhaes,26.6,1154,Baixo,Dezembro,Alto
+RS,Pelotas,19.1,1683,Baixo,Dezembro,Medio
+SC,Chapeco,19.2,1969,Medio,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,24.8,1125,Baixo,Setembro,Medio
+RS,Santa Maria,20.7,1684,Medio,Outubro,Baixo
+GO,Rio Verde,24.9,1681,Baixo,Novembro,Baixo
+RS,Passo Fundo,17.6,1769,Alto,Outubro,Medio
+BA,Luis Eduardo Magalhaes,24.1,1233,Baixo,Novembro,Medio
+MT,Sorriso,27.0,1958,Baixo,Dezembro,Medio
+MS,Campo Grande,24.1,1510,Baixo,Dezembro,Medio
+RS,Santa Maria,20.2,1736,Medio,Novembro,Baixo
+RS,Passo Fundo,16.8,1867,Alto,Setembro,Alto
+MT,Sorriso,27.2,1966,Baixo,Setembro,Medio
+MS,Campo Grande,25.9,1478,Baixo,Dezembro,Medio
+SC,Lages,18.5,1631,Alto,Outubro,Medio
+SC,Lages,16.9,1638,Alto,Setembro,Alto
+SC,Lages,17.1,1545,Alto,Novembro,Baixo
+PR,Ponta Grossa,18.3,1554,Medio,Setembro,Medio
+GO,Rio Verde,26.1,1616,Baixo,Outubro,Baixo
+MT,Rondonopolis,27.2,1338,Baixo,Outubro,Medio
+MS,Campo Grande,26.3,1426,Baixo,Dezembro,Medio
+RS,Ijui,18.9,1930,Medio,Setembro,Medio
+BA,Luis Eduardo Magalhaes,26.4,1181,Baixo,Setembro,Medio
+SC,Lages,17.5,1604,Alto,Dezembro,Medio
+SC,Lages,18.5,1532,Alto,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,25.6,1128,Baixo,Outubro,Medio
+BA,Luis Eduardo Magalhaes,24.6,1152,Baixo,Dezembro,Alto
+MS,Campo Grande,26.2,1513,Baixo,Novembro,Baixo
+RS,Santa Maria,20.4,1849,Medio,Dezembro,Medio
+PR,Guarapuava,18.4,1700,Alto,Setembro,Alto
+RS,Pelotas,17.9,1662,Baixo,Dezembro,Medio
+MS,Dourados,22.6,1403,Baixo,Novembro,Baixo
+MS,Dourados,24.0,1593,Baixo,Setembro,Medio
+RS,Pelotas,19.0,1693,Baixo,Setembro,Medio
+PR,Cascavel,23.3,1712,Medio,Novembro,Baixo
+SC,Chapeco,20.2,1898,Medio,Outubro,Baixo
+GO,Rio Verde,26.1,1789,Baixo,Dezembro,Medio
+GO,Jatai,23.7,1711,Baixo,Novembro,Baixo
+GO,Jatai,25.9,1566,Baixo,Setembro,Medio
+MT,Sinop,28.2,2092,Baixo,Novembro,Medio
+BA,Barreiras,26.7,1260,Baixo,Setembro,Medio
+PR,Ponta Grossa,20.9,1644,Medio,Outubro,Baixo
+MT,Rondonopolis,25.0,1392,Baixo,Setembro,Medio
+PR,Cascavel,21.5,1773,Medio,Outubro,Baixo
+PR,Ponta Grossa,18.7,1510,Medio,Setembro,Medio
+MT,Rondonopolis,27.2,1422,Baixo,Novembro,Baixo
+GO,Jatai,24.2,1725,Baixo,Setembro,Medio
+GO,Jatai,24.2,1698,Baixo,Dezembro,Medio
+PR,Londrina,23.1,1545,Baixo,Outubro,Baixo
+MT,Sorriso,25.7,1806,Baixo,Dezembro,Medio
+MT,Cuiaba,27.4,1301,Baixo,Outubro,Medio
+PR,Cascavel,22.0,1691,Medio,Outubro,Baixo
+PR,Guarapuava,19.3,1551,Alto,Dezembro,Medio
+MT,Sorriso,26.8,1911,Baixo,Novembro,Baixo
+RS,Pelotas,17.5,1593,Baixo,Dezembro,Medio
+BA,Barreiras,25.0,1271,Baixo,Outubro,Medio
+MT,Sinop,27.4,1991,Baixo,Setembro,Medio
+MT,Cuiaba,27.6,1433,Baixo,Outubro,Baixo
+MT,Rondonopolis,26.2,1496,Baixo,Outubro,Baixo
+MS,Campo Grande,23.8,1374,Baixo,Novembro,Medio
+SC,Joacaba,18.3,1687,Medio,Outubro,Baixo
+MT,Cuiaba,27.9,1459,Baixo,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,24.0,1280,Baixo,Dezembro,Alto
+PR,Londrina,24.4,1561,Baixo,Setembro,Medio
+MT,Sinop,27.2,1905,Baixo,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,25.3,1207,Baixo,Outubro,Medio
+MS,Dourados,23.0,1417,Baixo,Novembro,Baixo
+RS,Passo Fundo,19.2,1784,Alto,Outubro,Medio
+MT,Sorriso,25.3,1900,Baixo,Setembro,Medio
+MT,Sorriso,25.6,1826,Baixo,Outubro,Baixo
+GO,Jatai,24.5,1627,Baixo,Dezembro,Medio
+MT,Sinop,28.3,2093,Baixo,Setembro,Medio
+MT,Cuiaba,27.6,1446,Baixo,Novembro,Baixo
+RS,Pelotas,19.4,1593,Baixo,Dezembro,Medio
+MT,Sinop,27.9,2069,Baixo,Novembro,Baixo
+RS,Passo Fundo,16.6,1856,Alto,Setembro,Alto
+MT,Sinop,25.5,1948,Baixo,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,25.0,1164,Baixo,Setembro,Medio
 RS,Pelotas,20.2,1555,Baixo,Novembro,Baixo
-PR,Londrina,24.0,1576,Baixo,Outubro,Baixo
-RS,Ijui,19.9,1946,Medio,Outubro,Baixo
-MT,Sinop,25.9,2015,Baixo,Dezembro,Medio
-BA,Barreiras,27.3,1353,Baixo,Novembro,Medio
-RS,Passo Fundo,18.9,1882,Alto,Dezembro,Medio
-PR,Guarapuava,19.5,1594,Alto,Dezembro,Medio
-GO,Rio Verde,23.9,1693,Baixo,Setembro,Medio
-MS,Dourados,23.2,1460,Baixo,Setembro,Medio
-BA,Barreiras,26.1,1262,Baixo,Outubro,Medio
-MT,Sinop,27.4,1996,Baixo,Dezembro,Medio
-GO,Rio Verde,24.1,1671,Baixo,Dezembro,Medio
-PR,Ponta Grossa,18.6,1532,Medio,Setembro,Medio
-SC,Chapeco,21.4,1920,Medio,Outubro,Baixo
-GO,Jatai,23.3,1710,Baixo,Dezembro,Medio
-PR,Londrina,22.1,1636,Baixo,Dezembro,Medio
-MT,Sorriso,27.7,1890,Baixo,Novembro,Baixo
-GO,Jatai,23.8,1698,Baixo,Setembro,Medio
-SC,Chapeco,18.9,1889,Medio,Outubro,Baixo
-RS,Santa Maria,21.0,1822,Medio,Novembro,Baixo
-MS,Dourados,23.6,1549,Baixo,Setembro,Medio
-BA,Luis Eduardo Magalhaes,26.1,1102,Baixo,Novembro,Medio
-RS,Santa Maria,19.7,1847,Medio,Novembro,Baixo
-RS,Santa Maria,21.4,1698,Medio,Setembro,Medio
-RS,Pelotas,18.2,1635,Baixo,Outubro,Baixo
-RS,Passo Fundo,17.9,1705,Alto,Outubro,Medio
-RS,Santa Maria,21.4,1726,Medio,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,26.3,1227,Baixo,Dezembro,Alto
-GO,Jatai,24.3,1613,Baixo,Novembro,Baixo
-RS,Ijui,20.8,1764,Medio,Setembro,Medio
-PR,Cascavel,22.7,1725,Medio,Outubro,Baixo
-SC,Chapeco,20.9,1900,Medio,Novembro,Baixo
-MS,Dourados,24.1,1576,Baixo,Dezembro,Medio
-GO,Jatai,25.2,1582,Baixo,Novembro,Baixo
-SC,Chapeco,20.0,1922,Medio,Setembro,Medio
-RS,Passo Fundo,17.2,1843,Alto,Outubro,Medio
-PR,Guarapuava,17.9,1661,Alto,Outubro,Medio
-MS,Dourados,24.0,1466,Baixo,Setembro,Medio
-MT,Cuiaba,29.2,1420,Baixo,Outubro,Medio
-RS,Ijui,19.4,1799,Medio,Setembro,Medio
-BA,Barreiras,26.7,1268,Baixo,Novembro,Medio
-RS,Pelotas,19.1,1532,Baixo,Setembro,Medio
-PR,Londrina,23.6,1572,Baixo,Dezembro,Medio
-PR,Londrina,22.2,1611,Baixo,Novembro,Baixo
-RS,Passo Fundo,17.6,1855,Alto,Dezembro,Medio
-SC,Joacaba,18.0,1744,Medio,Novembro,Baixo
-MS,Dourados,24.2,1510,Baixo,Setembro,Medio
-PR,Ponta Grossa,19.9,1497,Medio,Novembro,Baixo
-RS,Santa Maria,18.6,1764,Medio,Dezembro,Medio
-PR,Cascavel,21.7,1607,Medio,Outubro,Baixo
-MT,Cuiaba,28.0,1413,Baixo,Dezembro,Medio
-MS,Dourados,24.9,1553,Baixo,Novembro,Baixo
-RS,Santa Maria,20.7,1754,Medio,Outubro,Baixo
-MS,Dourados,23.7,1406,Baixo,Outubro,Baixo
-SC,Joacaba,18.7,1772,Medio,Outubro,Baixo
-MT,Sinop,28.2,1984,Baixo,Dezembro,Medio
-RS,Ijui,18.4,1806,Medio,Novembro,Baixo
-RS,Passo Fundo,19.4,1752,Alto,Dezembro,Medio
-MS,Campo Grande,25.4,1371,Baixo,Novembro,Medio
-SC,Lages,18.3,1520,Alto,Setembro,Alto
-MT,Rondonopolis,26.2,1441,Baixo,Setembro,Medio
-BA,Barreiras,25.0,1251,Baixo,Outubro,Medio
-RS,Passo Fundo,16.8,1783,Alto,Dezembro,Medio
-SC,Chapeco,19.1,1840,Medio,Outubro,Baixo
-PR,Cascavel,20.5,1650,Medio,Outubro,Baixo
-RS,Pelotas,19.6,1619,Baixo,Outubro,Baixo
-RS,Santa Maria,21.2,1716,Medio,Setembro,Medio
-MS,Campo Grande,24.2,1358,Baixo,Setembro,Medio
-RS,Passo Fundo,17.6,1753,Alto,Setembro,Alto
-MT,Cuiaba,28.1,1489,Baixo,Outubro,Medio
-MT,Cuiaba,27.3,1469,Baixo,Dezembro,Medio
-MS,Campo Grande,26.5,1421,Baixo,Dezembro,Medio
-PR,Guarapuava,18.9,1612,Alto,Setembro,Alto
-SC,Chapeco,20.3,1933,Medio,Setembro,Medio
-RS,Ijui,18.6,1796,Medio,Novembro,Baixo
-GO,Rio Verde,26.3,1610,Baixo,Outubro,Baixo
-MT,Sorriso,27.3,1822,Baixo,Outubro,Baixo
-PR,Cascavel,23.2,1610,Medio,Novembro,Baixo
-PR,Cascavel,20.9,1667,Medio,Outubro,Baixo
-MT,Cuiaba,29.1,1368,Baixo,Outubro,Medio
-MT,Sorriso,25.7,1801,Baixo,Dezembro,Medio
-GO,Jatai,24.6,1712,Baixo,Setembro,Medio
-RS,Ijui,20.0,1818,Medio,Setembro,Medio
-PR,Ponta Grossa,20.9,1471,Medio,Dezembro,Medio
-PR,Londrina,22.5,1623,Baixo,Setembro,Medio
-MT,Sinop,27.5,2037,Baixo,Setembro,Medio
-RS,Ijui,18.6,1888,Medio,Outubro,Baixo
-SC,Joacaba,19.4,1656,Medio,Dezembro,Medio
-MT,Sorriso,27.1,1914,Baixo,Novembro,Baixo
-SC,Lages,16.5,1512,Alto,Setembro,Alto
-SC,Lages,16.0,1656,Alto,Outubro,Medio
-SC,Joacaba,17.2,1706,Medio,Dezembro,Medio
-RS,Santa Maria,19.5,1795,Medio,Dezembro,Medio
-PR,Guarapuava,16.8,1698,Alto,Outubro,Medio
-SC,Lages,15.9,1660,Alto,Novembro,Baixo
-RS,Ijui,20.7,1882,Medio,Novembro,Baixo
-SC,Joacaba,19.1,1653,Medio,Dezembro,Medio
-MT,Sinop,26.8,2029,Baixo,Setembro,Medio
-BA,Barreiras,24.9,1285,Baixo,Setembro,Medio
-PR,Ponta Grossa,20.1,1526,Medio,Dezembro,Medio
-MS,Campo Grande,23.9,1388,Baixo,Setembro,Medio
-GO,Rio Verde,23.8,1620,Baixo,Setembro,Medio
-PR,Cascavel,20.6,1799,Medio,Novembro,Baixo
-MT,Rondonopolis,26.3,1489,Baixo,Novembro,Baixo
-MT,Sinop,28.2,1975,Baixo,Dezembro,Medio
-MT,Sinop,26.7,2041,Baixo,Outubro,Baixo
-BA,Luis Eduardo Magalhaes,24.5,1253,Baixo,Novembro,Medio
-MS,Dourados,25.4,1406,Baixo,Dezembro,Medio
-BA,Barreiras,26.8,1325,Baixo,Novembro,Medio
-RS,Santa Maria,18.8,1801,Medio,Dezembro,Medio
-SC,Joacaba,17.5,1755,Medio,Dezembro,Medio
-PR,Guarapuava,16.9,1594,Alto,Setembro,Alto
-PR,Londrina,21.5,1642,Baixo,Dezembro,Medio
-GO,Rio Verde,24.6,1758,Baixo,Novembro,Baixo
-RS,Ijui,20.7,1867,Medio,Novembro,Baixo
-PR,Guarapuava,17.8,1747,Alto,Setembro,Alto
-MS,Campo Grande,25.8,1509,Baixo,Dezembro,Medio
-RS,Santa Maria,19.5,1683,Medio,Novembro,Baixo
-GO,Jatai,25.0,1673,Baixo,Dezembro,Medio
-MS,Campo Grande,23.7,1457,Baixo,Outubro,Baixo
-RS,Santa Maria,21.5,1776,Medio,Setembro,Medio
-PR,Guarapuava,18.6,1569,Alto,Outubro,Medio
-MS,Dourados,24.5,1456,Baixo,Outubro,Baixo
-MS,Dourados,23.6,1494,Baixo,Setembro,Medio
-RS,Ijui,19.6,1894,Medio,Setembro,Medio
-MT,Sinop,28.0,1970,Baixo,Dezembro,Medio
-BA,Luis Eduardo Magalhaes,24.9,1154,Baixo,Setembro,Medio
-PR,Ponta Grossa,18.4,1583,Medio,Outubro,Baixo
-SC,Chapeco,19.7,1878,Medio,Outubro,Baixo
-MT,Cuiaba,27.6,1446,Baixo,Setembro,Medio
-SC,Lages,16.7,1667,Alto,Dezembro,Medio
-MT,Rondonopolis,26.1,1370,Baixo,Outubro,Medio
-PR,Cascavel,22.5,1696,Medio,Outubro,Baixo
-SC,Joacaba,19.7,1708,Medio,Outubro,Baixo
-MT,Sorriso,26.9,1813,Baixo,Outubro,Baixo
-MT,Sorriso,27.3,1910,Baixo,Dezembro,Medio
-RS,Ijui,18.7,1886,Medio,Outubro,Baixo
-MS,Dourados,25.3,1589,Baixo,Novembro,Baixo
-MT,Sorriso,26.3,1960,Baixo,Setembro,Medio
-SC,Chapeco,18.6,1841,Medio,Setembro,Medio
-MT,Rondonopolis,25.6,1425,Baixo,Outubro,Baixo
-SC,Chapeco,21.3,1873,Medio,Setembro,Medio
-MT,Sorriso,25.9,1887,Baixo,Dezembro,Medio
-GO,Rio Verde,24.9,1751,Baixo,Novembro,Baixo
-PR,Londrina,24.4,1682,Baixo,Dezembro,Medio
-PR,Ponta Grossa,20.7,1500,Medio,Novembro,Baixo
-RS,Ijui,19.7,1798,Medio,Setembro,Medio
-MT,Sinop,26.7,2013,Baixo,Dezembro,Medio
-MS,Dourados,24.4,1531,Baixo,Dezembro,Medio
-MT,Cuiaba,27.5,1406,Baixo,Setembro,Medio
-GO,Jatai,25.2,1746,Baixo,Setembro,Medio
-MT,Rondonopolis,24.6,1323,Baixo,Setembro,Medio
-MT,Rondonopolis,25.5,1425,Baixo,Outubro,Baixo
-BA,Barreiras,25.7,1282,Baixo,Setembro,Medio
-GO,Jatai,23.4,1666,Baixo,Dezembro,Medio
-PR,Guarapuava,17.0,1732,Alto,Outubro,Medio
-RS,Passo Fundo,17.6,1816,Alto,Outubro,Medio
-SC,Lages,17.5,1539,Alto,Outubro,Medio
-GO,Rio Verde,24.9,1655,Baixo,Setembro,Medio
-SC,Chapeco,21.3,1844,Medio,Setembro,Medio
-PR,Cascavel,20.8,1661,Medio,Outubro,Baixo
-PR,Ponta Grossa,18.7,1450,Medio,Outubro,Baixo
-MT,Rondonopolis,27.3,1314,Baixo,Outubro,Medio
-GO,Rio Verde,23.6,1698,Baixo,Novembro,Baixo
-SC,Joacaba,19.0,1797,Medio,Outubro,Baixo
-GO,Rio Verde,26.2,1753,Baixo,Novembro,Baixo
-GO,Rio Verde,24.0,1661,Baixo,Outubro,Baixo
-RS,Passo Fundo,17.6,1737,Alto,Outubro,Medio
-MS,Campo Grande,24.3,1546,Baixo,Dezembro,Medio
-SC,Chapeco,19.1,1861,Medio,Dezembro,Medio
-RS,Passo Fundo,16.9,1715,Alto,Dezembro,Medio
-RS,Pelotas,20.2,1663,Baixo,Setembro,Medio
-RS,Pelotas,18.4,1630,Baixo,Novembro,Baixo
-SC,Chapeco,21.0,1998,Medio,Dezembro,Medio
-SC,Chapeco,21.4,1807,Medio,Outubro,Baixo
-PR,Guarapuava,17.5,1625,Alto,Dezembro,Medio
-RS,Passo Fundo,19.4,1783,Alto,Setembro,Alto
-MS,Campo Grande,25.2,1477,Baixo,Dezembro,Medio
-RS,Pelotas,20.4,1574,Baixo,Dezembro,Medio
-GO,Jatai,25.4,1555,Baixo,Setembro,Medio
-GO,Jatai,23.2,1572,Baixo,Outubro,Baixo
-GO,Rio Verde,25.4,1628,Baixo,Dezembro,Medio
-SC,Joacaba,18.3,1684,Medio,Dezembro,Medio
-MT,Sorriso,26.4,1838,Baixo,Setembro,Medio
-PR,Guarapuava,17.8,1591,Alto,Novembro,Baixo
-SC,Joacaba,17.9,1648,Medio,Dezembro,Medio
-SC,Lages,16.3,1585,Alto,Outubro,Medio
-RS,Passo Fundo,17.4,1781,Alto,Outubro,Medio
-SC,Lages,15.6,1630,Alto,Novembro,Baixo
-SC,Lages,16.1,1694,Alto,Setembro,Alto
-GO,Jatai,24.4,1612,Baixo,Dezembro,Medio
-PR,Guarapuava,19.0,1619,Alto,Novembro,Baixo
-BA,Barreiras,24.5,1204,Baixo,Setembro,Medio
-BA,Luis Eduardo Magalhaes,24.1,1221,Baixo,Dezembro,Alto
-RS,Pelotas,17.9,1643,Baixo,Novembro,Baixo
-MT,Sinop,27.8,2064,Baixo,Novembro,Baixo
-RS,Santa Maria,20.9,1821,Medio,Dezembro,Medio
-RS,Santa Maria,19.6,1767,Medio,Setembro,Medio
-MT,Cuiaba,28.6,1425,Baixo,Setembro,Medio
-BA,Barreiras,26.2,1340,Baixo,Novembro,Medio
-SC,Joacaba,19.9,1722,Medio,Dezembro,Medio
-MT,Rondonopolis,25.7,1493,Baixo,Setembro,Medio
-GO,Jatai,23.9,1658,Baixo,Setembro,Medio
-RS,Ijui,19.3,1787,Medio,Dezembro,Medio
-SC,Joacaba,17.2,1614,Medio,Novembro,Baixo
-MT,Sinop,27.8,2015,Baixo,Outubro,Baixo
-RS,Pelotas,18.0,1584,Baixo,Dezembro,Medio
-SC,Chapeco,19.2,1830,Medio,Setembro,Medio
-PR,Londrina,23.3,1633,Baixo,Setembro,Medio
-RS,Passo Fundo,17.3,1799,Alto,Setembro,Alto
-MT,Sorriso,27.2,1972,Baixo,Novembro,Baixo
-PR,Londrina,23.1,1585,Baixo,Novembro,Baixo
-MT,Sinop,27.0,1944,Baixo,Novembro,Baixo
-RS,Santa Maria,18.8,1828,Medio,Setembro,Medio
-PR,Guarapuava,18.4,1712,Alto,Dezembro,Medio
-PR,Guarapuava,19.0,1703,Alto,Outubro,Medio
-BA,Barreiras,24.7,1240,Baixo,Outubro,Medio
-MT,Rondonopolis,26.9,1464,Baixo,Novembro,Baixo
-RS,Pelotas,20.0,1523,Baixo,Outubro,Baixo
-MS,Campo Grande,26.4,1410,Baixo,Novembro,Baixo
-PR,Londrina,22.6,1587,Baixo,Dezembro,Medio
-MS,Campo Grande,26.2,1480,Baixo,Novembro,Baixo
-PR,Ponta Grossa,18.1,1574,Medio,Novembro,Baixo
-PR,Ponta Grossa,20.1,1462,Medio,Outubro,Baixo
-SC,Lages,16.2,1653,Alto,Dezembro,Medio
-MT,Cuiaba,28.9,1355,Baixo,Novembro,Medio
-GO,Rio Verde,24.0,1621,Baixo,Outubro,Baixo
-SC,Lages,17.8,1520,Alto,Setembro,Alto
-MT,Sorriso,27.7,1897,Baixo,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,26.4,1194,Baixo,Outubro,Medio
-RS,Passo Fundo,18.3,1873,Alto,Setembro,Alto
-GO,Jatai,24.9,1557,Baixo,Novembro,Baixo
-MT,Sorriso,27.6,1952,Baixo,Dezembro,Medio
-RS,Pelotas,20.5,1633,Baixo,Dezembro,Medio
-SC,Lages,17.8,1593,Alto,Dezembro,Medio
-RS,Santa Maria,19.6,1658,Medio,Dezembro,Medio
-PR,Guarapuava,17.4,1696,Alto,Dezembro,Medio
+MS,Campo Grande,25.3,1408,Baixo,Setembro,Medio
+PR,Ponta Grossa,20.4,1632,Medio,Setembro,Medio
+RS,Pelotas,17.6,1644,Baixo,Dezembro,Medio
+PR,Guarapuava,19.0,1610,Alto,Novembro,Baixo
+RS,Santa Maria,20.1,1834,Medio,Novembro,Baixo
+RS,Santa Maria,20.1,1819,Medio,Novembro,Baixo
+RS,Pelotas,19.1,1669,Baixo,Dezembro,Medio
+SC,Chapeco,21.1,1975,Medio,Dezembro,Medio
+PR,Cascavel,22.3,1690,Medio,Setembro,Medio
+SC,Chapeco,21.0,1865,Medio,Outubro,Baixo
+RS,Pelotas,19.8,1538,Baixo,Outubro,Baixo
+SC,Lages,17.0,1636,Alto,Novembro,Baixo
+GO,Rio Verde,23.6,1628,Baixo,Dezembro,Medio
+MT,Sinop,28.3,2022,Baixo,Novembro,Medio
+PR,Cascavel,21.1,1651,Medio,Novembro,Baixo
+MS,Campo Grande,26.5,1441,Baixo,Dezembro,Medio
+MT,Sinop,26.7,1964,Baixo,Setembro,Medio
+MS,Campo Grande,26.0,1490,Baixo,Novembro,Baixo
+RS,Passo Fundo,19.1,1785,Alto,Novembro,Baixo
+MS,Dourados,23.8,1484,Baixo,Setembro,Medio
+SC,Chapeco,19.4,1955,Medio,Novembro,Baixo
+RS,Pelotas,17.8,1573,Baixo,Setembro,Medio
+MS,Dourados,24.1,1407,Baixo,Dezembro,Medio
+BA,Barreiras,27.4,1252,Baixo,Dezembro,Alto
+MT,Cuiaba,28.4,1383,Baixo,Dezembro,Medio
+MT,Sinop,27.4,1992,Baixo,Setembro,Medio
+MS,Dourados,23.8,1516,Baixo,Outubro,Baixo
+BA,Barreiras,26.7,1243,Baixo,Dezembro,Alto
+PR,Ponta Grossa,20.1,1632,Medio,Dezembro,Medio
+MS,Dourados,24.0,1536,Baixo,Dezembro,Medio
+PR,Londrina,24.3,1692,Baixo,Setembro,Medio
+GO,Rio Verde,24.1,1777,Baixo,Outubro,Baixo
+SC,Joacaba,20.0,1725,Medio,Novembro,Baixo
+MT,Cuiaba,29.1,1464,Baixo,Dezembro,Medio
+PR,Londrina,23.4,1677,Baixo,Outubro,Baixo
+RS,Santa Maria,18.6,1828,Medio,Dezembro,Medio
+MT,Sorriso,26.7,1922,Baixo,Novembro,Baixo
+PR,Cascavel,23.4,1742,Medio,Outubro,Baixo
+SC,Joacaba,18.4,1625,Medio,Novembro,Baixo
+GO,Jatai,23.2,1676,Baixo,Dezembro,Medio
+RS,Passo Fundo,18.6,1706,Alto,Setembro,Alto
+SC,Chapeco,20.7,1831,Medio,Novembro,Baixo
+MT,Rondonopolis,26.3,1490,Baixo,Dezembro,Medio
+MT,Cuiaba,28.8,1439,Baixo,Novembro,Medio
+BA,Luis Eduardo Magalhaes,26.2,1164,Baixo,Outubro,Medio
+RS,Passo Fundo,19.0,1883,Alto,Dezembro,Medio
+MT,Rondonopolis,26.1,1438,Baixo,Dezembro,Medio
+SC,Lages,18.3,1597,Alto,Outubro,Medio
+BA,Barreiras,26.6,1293,Baixo,Setembro,Medio
+MT,Sorriso,27.9,1945,Baixo,Outubro,Baixo
+PR,Ponta Grossa,20.0,1535,Medio,Setembro,Medio
+BA,Luis Eduardo Magalhaes,25.2,1273,Baixo,Novembro,Medio
+BA,Barreiras,27.0,1315,Baixo,Novembro,Medio
+GO,Rio Verde,26.4,1610,Baixo,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,25.4,1225,Baixo,Dezembro,Alto
+RS,Ijui,20.5,1799,Medio,Novembro,Baixo
+MS,Campo Grande,26.4,1536,Baixo,Dezembro,Medio
+GO,Jatai,25.0,1571,Baixo,Setembro,Medio
+SC,Chapeco,20.4,1896,Medio,Novembro,Baixo
+SC,Chapeco,19.4,1913,Medio,Outubro,Baixo
+MT,Cuiaba,27.7,1426,Baixo,Novembro,Baixo
+MT,Sinop,27.8,1989,Baixo,Novembro,Baixo
+SC,Chapeco,18.9,1806,Medio,Setembro,Medio
+MT,Sinop,26.4,2031,Baixo,Setembro,Medio
+MT,Cuiaba,27.7,1395,Baixo,Outubro,Medio
+MT,Sorriso,25.9,1864,Baixo,Outubro,Baixo
+MS,Campo Grande,24.4,1502,Baixo,Setembro,Medio
+MS,Campo Grande,24.8,1542,Baixo,Outubro,Baixo
+SC,Joacaba,17.6,1616,Medio,Dezembro,Medio
+RS,Santa Maria,20.8,1662,Medio,Outubro,Baixo
+MS,Campo Grande,24.8,1530,Baixo,Outubro,Baixo
+PR,Cascavel,23.4,1762,Medio,Setembro,Medio
+GO,Rio Verde,25.8,1670,Baixo,Dezembro,Medio
+MS,Dourados,22.6,1437,Baixo,Dezembro,Medio
+BA,Barreiras,25.5,1361,Baixo,Setembro,Medio
+BA,Barreiras,27.2,1265,Baixo,Outubro,Medio
+GO,Jatai,25.7,1593,Baixo,Novembro,Baixo
+MS,Campo Grande,26.4,1541,Baixo,Novembro,Baixo
+BA,Barreiras,24.7,1298,Baixo,Outubro,Medio
+MT,Sinop,28.1,2058,Baixo,Setembro,Medio
+RS,Santa Maria,20.9,1697,Medio,Novembro,Baixo
+RS,Pelotas,18.4,1579,Baixo,Setembro,Medio
+PR,Guarapuava,18.3,1592,Alto,Dezembro,Medio
+BA,Barreiras,26.0,1236,Baixo,Outubro,Medio
+SC,Chapeco,20.4,1809,Medio,Outubro,Baixo
+GO,Rio Verde,24.5,1699,Baixo,Outubro,Baixo
+BA,Luis Eduardo Magalhaes,25.3,1281,Baixo,Outubro,Medio
+PR,Londrina,22.2,1613,Baixo,Setembro,Medio
+MS,Campo Grande,25.3,1485,Baixo,Outubro,Baixo
+PR,Cascavel,21.7,1642,Medio,Outubro,Baixo
+MT,Rondonopolis,25.8,1402,Baixo,Outubro,Baixo
+SC,Joacaba,18.7,1674,Medio,Novembro,Baixo
+RS,Passo Fundo,19.0,1786,Alto,Novembro,Baixo
+MT,Sorriso,25.3,1915,Baixo,Setembro,Medio
+MT,Sinop,26.9,2026,Baixo,Novembro,Baixo
+PR,Ponta Grossa,18.0,1492,Medio,Dezembro,Medio
+RS,Passo Fundo,17.4,1807,Alto,Dezembro,Medio
+SC,Joacaba,19.1,1676,Medio,Setembro,Medio
+BA,Luis Eduardo Magalhaes,25.5,1212,Baixo,Novembro,Medio
+PR,Guarapuava,18.8,1624,Alto,Outubro,Medio
+MT,Sinop,26.1,1951,Baixo,Outubro,Baixo
+PR,Guarapuava,17.4,1593,Alto,Outubro,Medio
+RS,Santa Maria,21.5,1782,Medio,Dezembro,Medio
+MT,Sorriso,27.0,1862,Baixo,Dezembro,Medio
+MT,Sinop,27.2,2005,Baixo,Outubro,Baixo
+PR,Londrina,22.2,1568,Baixo,Setembro,Medio
+RS,Santa Maria,21.3,1656,Medio,Novembro,Baixo
+SC,Lages,16.0,1647,Alto,Setembro,Alto
+PR,Londrina,21.7,1555,Baixo,Outubro,Baixo
+PR,Cascavel,23.3,1736,Medio,Setembro,Medio
+PR,Guarapuava,18.1,1668,Alto,Outubro,Medio
+RS,Ijui,19.9,1764,Medio,Setembro,Medio
+PR,Ponta Grossa,19.0,1598,Medio,Setembro,Medio
+MS,Dourados,22.7,1439,Baixo,Outubro,Baixo
+MT,Rondonopolis,24.8,1470,Baixo,Novembro,Baixo
+MT,Cuiaba,28.7,1479,Baixo,Setembro,Medio
+SC,Chapeco,18.5,1814,Medio,Outubro,Baixo
+SC,Joacaba,17.4,1611,Medio,Setembro,Medio
+SC,Joacaba,18.8,1710,Medio,Novembro,Baixo
+MT,Sorriso,27.1,1877,Baixo,Dezembro,Medio
+PR,Ponta Grossa,19.2,1649,Medio,Novembro,Baixo
+MS,Campo Grande,25.0,1368,Baixo,Outubro,Medio
+RS,Passo Fundo,19.1,1875,Alto,Novembro,Baixo
+MS,Campo Grande,24.1,1440,Baixo,Dezembro,Medio
+PR,Cascavel,21.2,1768,Medio,Dezembro,Medio
+RS,Santa Maria,19.5,1656,Medio,Setembro,Medio
+MT,Sorriso,27.4,1845,Baixo,Novembro,Baixo
+PR,Londrina,23.8,1652,Baixo,Outubro,Baixo
+GO,Rio Verde,25.1,1674,Baixo,Setembro,Medio
+SC,Chapeco,20.5,1876,Medio,Dezembro,Medio
+SC,Joacaba,17.2,1697,Medio,Setembro,Medio
+RS,Santa Maria,21.2,1711,Medio,Outubro,Baixo
+PR,Guarapuava,16.7,1725,Alto,Setembro,Alto
+MS,Dourados,24.4,1566,Baixo,Dezembro,Medio
+PR,Guarapuava,16.5,1689,Alto,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,24.8,1117,Baixo,Outubro,Medio
+GO,Jatai,25.6,1655,Baixo,Novembro,Baixo
+MT,Cuiaba,26.8,1413,Baixo,Dezembro,Medio
+RS,Ijui,20.1,1828,Medio,Setembro,Medio
+RS,Santa Maria,18.8,1756,Medio,Setembro,Medio
+PR,Ponta Grossa,18.7,1569,Medio,Outubro,Baixo
+SC,Chapeco,19.0,1955,Medio,Outubro,Baixo
+SC,Joacaba,17.4,1629,Medio,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,27.0,1295,Baixo,Dezembro,Alto
+SC,Joacaba,18.4,1650,Medio,Setembro,Medio
+MT,Sorriso,27.1,1929,Baixo,Novembro,Baixo
+BA,Barreiras,24.7,1371,Baixo,Novembro,Medio
+PR,Londrina,23.6,1501,Baixo,Dezembro,Medio
+RS,Ijui,19.8,1767,Medio,Dezembro,Medio
+MS,Dourados,24.6,1431,Baixo,Setembro,Medio
+MT,Rondonopolis,25.5,1499,Baixo,Outubro,Baixo
+MT,Sorriso,27.9,1966,Baixo,Dezembro,Medio
+PR,Londrina,24.2,1681,Baixo,Dezembro,Medio
+SC,Chapeco,20.6,1927,Medio,Dezembro,Medio
+RS,Passo Fundo,18.8,1765,Alto,Setembro,Alto
+MT,Sinop,25.7,1994,Baixo,Dezembro,Medio
+SC,Chapeco,20.3,1861,Medio,Outubro,Baixo
+MT,Sorriso,25.3,1967,Baixo,Dezembro,Medio
+RS,Santa Maria,19.3,1816,Medio,Outubro,Baixo
+SC,Chapeco,21.1,1943,Medio,Novembro,Baixo
+RS,Passo Fundo,18.8,1862,Alto,Outubro,Medio
+MT,Rondonopolis,26.0,1319,Baixo,Outubro,Medio
+MT,Cuiaba,27.9,1300,Baixo,Outubro,Medio
+MT,Cuiaba,27.9,1382,Baixo,Dezembro,Medio
+PR,Cascavel,23.2,1643,Medio,Novembro,Baixo
+PR,Guarapuava,18.6,1591,Alto,Setembro,Alto
+BA,Luis Eduardo Magalhaes,24.3,1127,Baixo,Setembro,Medio
+MT,Cuiaba,28.0,1444,Baixo,Outubro,Baixo
+PR,Londrina,22.2,1511,Baixo,Outubro,Baixo
+MT,Sorriso,27.4,1970,Baixo,Setembro,Medio
+MT,Sinop,27.8,1911,Baixo,Novembro,Baixo
+PR,Ponta Grossa,20.0,1554,Medio,Setembro,Medio
+GO,Jatai,23.1,1632,Baixo,Setembro,Medio
+PR,Guarapuava,17.9,1561,Alto,Outubro,Medio
+MT,Rondonopolis,27.2,1347,Baixo,Setembro,Medio
+PR,Londrina,24.1,1648,Baixo,Novembro,Baixo
+MT,Sinop,25.8,1901,Baixo,Dezembro,Medio
+PR,Cascavel,22.4,1675,Medio,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,26.0,1197,Baixo,Setembro,Medio
+SC,Lages,18.1,1653,Alto,Outubro,Medio
+MT,Sinop,27.3,1942,Baixo,Setembro,Medio
+BA,Luis Eduardo Magalhaes,26.1,1152,Baixo,Novembro,Medio
+GO,Rio Verde,26.3,1640,Baixo,Dezembro,Medio
+RS,Passo Fundo,18.6,1894,Alto,Dezembro,Medio
+RS,Ijui,19.1,1897,Medio,Setembro,Medio
+SC,Lages,17.0,1513,Alto,Novembro,Baixo
+SC,Joacaba,19.0,1705,Medio,Novembro,Baixo
+SC,Joacaba,17.9,1731,Medio,Outubro,Baixo
+PR,Ponta Grossa,18.9,1530,Medio,Novembro,Baixo
+MT,Sinop,26.7,2062,Baixo,Setembro,Medio
+MT,Sinop,28.2,2033,Baixo,Outubro,Medio
+PR,Cascavel,20.6,1727,Medio,Setembro,Medio
+MT,Sinop,26.5,1985,Baixo,Novembro,Baixo
+MT,Cuiaba,29.1,1410,Baixo,Dezembro,Medio
+PR,Londrina,21.7,1588,Baixo,Setembro,Medio
+GO,Rio Verde,26.4,1775,Baixo,Dezembro,Medio
+SC,Chapeco,18.5,1969,Medio,Dezembro,Medio
+SC,Chapeco,19.8,1804,Medio,Novembro,Baixo
+SC,Joacaba,17.6,1641,Medio,Outubro,Baixo
+MT,Cuiaba,27.6,1392,Baixo,Setembro,Medio
+SC,Chapeco,20.4,1855,Medio,Novembro,Baixo
+RS,Passo Fundo,16.7,1772,Alto,Setembro,Alto
+BA,Barreiras,25.9,1257,Baixo,Novembro,Medio
+MS,Campo Grande,23.5,1544,Baixo,Outubro,Baixo
+SC,Joacaba,18.8,1727,Medio,Setembro,Medio
+MT,Cuiaba,27.3,1303,Baixo,Dezembro,Medio
+RS,Ijui,18.8,1881,Medio,Novembro,Baixo
+MT,Cuiaba,26.7,1362,Baixo,Setembro,Medio
+PR,Guarapuava,19.0,1708,Alto,Dezembro,Medio
+RS,Pelotas,17.9,1591,Baixo,Setembro,Medio
+SC,Joacaba,17.3,1627,Medio,Dezembro,Medio
+MT,Cuiaba,27.1,1485,Baixo,Novembro,Baixo
+PR,Cascavel,23.1,1778,Medio,Novembro,Baixo
+MT,Sorriso,25.7,1932,Baixo,Setembro,Medio
+MT,Sorriso,25.2,1938,Baixo,Setembro,Medio
+PR,Londrina,21.8,1500,Baixo,Setembro,Medio
+BA,Barreiras,24.9,1204,Baixo,Outubro,Medio
+MS,Campo Grande,25.3,1366,Baixo,Dezembro,Medio
+SC,Chapeco,19.4,1872,Medio,Setembro,Medio
+RS,Ijui,20.1,1789,Medio,Dezembro,Medio
+RS,Ijui,18.9,1939,Medio,Outubro,Baixo
+RS,Pelotas,18.2,1614,Baixo,Setembro,Medio
+MS,Campo Grande,23.6,1488,Baixo,Novembro,Baixo
+MS,Campo Grande,24.5,1517,Baixo,Outubro,Baixo
+BA,Barreiras,25.5,1318,Baixo,Setembro,Medio
+RS,Pelotas,18.9,1601,Baixo,Setembro,Medio
+MT,Cuiaba,28.1,1353,Baixo,Setembro,Medio
+BA,Barreiras,26.5,1220,Baixo,Outubro,Medio
+MT,Rondonopolis,27.2,1482,Baixo,Outubro,Baixo
+PR,Londrina,22.1,1694,Baixo,Setembro,Medio
+PR,Londrina,24.5,1522,Baixo,Outubro,Baixo
+MT,Rondonopolis,24.7,1313,Baixo,Dezembro,Medio
+GO,Rio Verde,25.2,1607,Baixo,Outubro,Baixo
+RS,Ijui,20.3,1814,Medio,Setembro,Medio
+MT,Sinop,27.0,1909,Baixo,Setembro,Medio
+PR,Ponta Grossa,19.7,1519,Medio,Novembro,Baixo
+MT,Rondonopolis,26.3,1434,Baixo,Setembro,Medio
+SC,Joacaba,19.0,1747,Medio,Setembro,Medio
+MT,Rondonopolis,25.9,1367,Baixo,Novembro,Medio
+PR,Guarapuava,18.8,1670,Alto,Outubro,Medio
+GO,Rio Verde,24.5,1724,Baixo,Dezembro,Medio
+MT,Rondonopolis,25.0,1318,Baixo,Novembro,Medio
+RS,Passo Fundo,18.4,1835,Alto,Dezembro,Medio
+BA,Barreiras,26.7,1298,Baixo,Setembro,Medio
+RS,Passo Fundo,17.2,1875,Alto,Outubro,Medio
+BA,Barreiras,26.7,1208,Baixo,Setembro,Medio
+SC,Lages,17.6,1596,Alto,Outubro,Medio
+SC,Lages,15.6,1525,Alto,Setembro,Alto
+PR,Ponta Grossa,18.7,1594,Medio,Novembro,Baixo
+GO,Rio Verde,26.4,1717,Baixo,Setembro,Medio
+PR,Londrina,22.1,1596,Baixo,Novembro,Baixo
+MS,Dourados,24.9,1569,Baixo,Dezembro,Medio
+MT,Cuiaba,29.2,1472,Baixo,Outubro,Medio
+PR,Ponta Grossa,20.1,1531,Medio,Setembro,Medio
+BA,Luis Eduardo Magalhaes,24.7,1117,Baixo,Setembro,Medio
+PR,Ponta Grossa,19.7,1618,Medio,Dezembro,Medio
+PR,Londrina,24.0,1602,Baixo,Setembro,Medio
+MS,Dourados,25.3,1500,Baixo,Setembro,Medio
+MS,Campo Grande,24.6,1472,Baixo,Novembro,Baixo
+SC,Chapeco,21.0,1894,Medio,Dezembro,Medio
+SC,Chapeco,21.5,1985,Medio,Setembro,Medio
+MS,Campo Grande,23.9,1498,Baixo,Novembro,Baixo
+PR,Guarapuava,19.5,1572,Alto,Outubro,Medio
+PR,Ponta Grossa,20.7,1585,Medio,Dezembro,Medio
+SC,Chapeco,20.6,1886,Medio,Outubro,Baixo
+RS,Passo Fundo,19.1,1807,Alto,Dezembro,Medio
+SC,Joacaba,19.7,1744,Medio,Novembro,Baixo
+GO,Rio Verde,26.0,1607,Baixo,Dezembro,Medio
+GO,Rio Verde,26.1,1666,Baixo,Setembro,Medio
+MT,Sorriso,25.5,1975,Baixo,Novembro,Baixo
+PR,Cascavel,22.4,1774,Medio,Outubro,Baixo
+BA,Luis Eduardo Magalhaes,25.4,1260,Baixo,Novembro,Medio
+GO,Jatai,25.8,1552,Baixo,Dezembro,Medio
+MT,Sorriso,25.6,1974,Baixo,Dezembro,Medio
+PR,Londrina,22.2,1623,Baixo,Dezembro,Medio
+SC,Joacaba,18.8,1750,Medio,Setembro,Medio
+GO,Jatai,25.2,1738,Baixo,Dezembro,Medio
+RS,Passo Fundo,17.7,1875,Alto,Outubro,Medio
+MS,Campo Grande,25.6,1527,Baixo,Outubro,Baixo
+RS,Santa Maria,18.9,1673,Medio,Outubro,Baixo
+RS,Ijui,18.1,1920,Medio,Dezembro,Medio
+SC,Lages,18.4,1685,Alto,Outubro,Medio
+PR,Ponta Grossa,18.5,1549,Medio,Dezembro,Medio
+MT,Rondonopolis,24.9,1316,Baixo,Setembro,Medio
+MS,Campo Grande,25.4,1532,Baixo,Outubro,Baixo
+SC,Lages,16.5,1656,Alto,Dezembro,Medio
+MS,Campo Grande,24.1,1534,Baixo,Outubro,Baixo
+PR,Londrina,24.4,1639,Baixo,Setembro,Medio
+MS,Campo Grande,25.9,1529,Baixo,Novembro,Baixo
+RS,Santa Maria,18.5,1708,Medio,Setembro,Medio
+MS,Campo Grande,25.3,1439,Baixo,Setembro,Medio
+SC,Lages,16.3,1525,Alto,Setembro,Alto
+PR,Londrina,24.3,1699,Baixo,Setembro,Medio
+SC,Joacaba,17.2,1661,Medio,Dezembro,Medio
+PR,Londrina,22.2,1505,Baixo,Novembro,Baixo
+PR,Londrina,22.4,1663,Baixo,Outubro,Baixo
+RS,Passo Fundo,17.4,1810,Alto,Setembro,Alto
+PR,Ponta Grossa,18.1,1527,Medio,Novembro,Baixo
+PR,Guarapuava,18.4,1617,Alto,Setembro,Alto
+RS,Passo Fundo,19.1,1798,Alto,Setembro,Alto
+PR,Ponta Grossa,20.9,1636,Medio,Outubro,Baixo
+PR,Londrina,21.9,1645,Baixo,Setembro,Medio
+RS,Santa Maria,19.1,1666,Medio,Setembro,Medio
+MT,Rondonopolis,25.6,1382,Baixo,Dezembro,Medio
+RS,Ijui,20.5,1764,Medio,Outubro,Baixo
+MT,Cuiaba,26.9,1494,Baixo,Dezembro,Medio
+MT,Cuiaba,27.5,1455,Baixo,Dezembro,Medio
+MT,Sorriso,26.3,1988,Baixo,Novembro,Baixo
+PR,Ponta Grossa,20.6,1506,Medio,Outubro,Baixo
+RS,Ijui,18.5,1866,Medio,Dezembro,Medio
+PR,Londrina,22.3,1697,Baixo,Dezembro,Medio
+MT,Rondonopolis,25.7,1364,Baixo,Setembro,Medio
+MS,Campo Grande,23.6,1481,Baixo,Setembro,Medio
+MS,Dourados,23.5,1573,Baixo,Setembro,Medio
+PR,Londrina,23.2,1665,Baixo,Outubro,Baixo
+MT,Cuiaba,28.7,1328,Baixo,Dezembro,Medio
+MT,Cuiaba,27.1,1328,Baixo,Setembro,Medio
+PR,Ponta Grossa,18.5,1627,Medio,Setembro,Medio
+BA,Luis Eduardo Magalhaes,25.0,1153,Baixo,Novembro,Medio
+PR,Londrina,24.2,1520,Baixo,Setembro,Medio
+MT,Sorriso,27.3,1909,Baixo,Dezembro,Medio
+GO,Jatai,24.9,1729,Baixo,Setembro,Medio
+RS,Passo Fundo,16.9,1739,Alto,Setembro,Alto
+SC,Lages,15.8,1578,Alto,Dezembro,Medio
+PR,Guarapuava,18.6,1707,Alto,Dezembro,Medio
+RS,Pelotas,17.6,1615,Baixo,Setembro,Medio
+SC,Lages,15.7,1691,Alto,Setembro,Alto
+RS,Pelotas,19.6,1693,Baixo,Outubro,Baixo
+BA,Barreiras,25.7,1358,Baixo,Outubro,Medio
+MS,Campo Grande,25.7,1491,Baixo,Outubro,Baixo
+GO,Jatai,25.6,1696,Baixo,Outubro,Baixo
+RS,Santa Maria,20.6,1711,Medio,Outubro,Baixo
+PR,Cascavel,22.5,1788,Medio,Dezembro,Medio
+BA,Barreiras,25.5,1348,Baixo,Novembro,Medio
+SC,Joacaba,17.2,1642,Medio,Dezembro,Medio
+SC,Joacaba,19.6,1750,Medio,Novembro,Baixo
+RS,Santa Maria,20.2,1825,Medio,Setembro,Medio
+SC,Lages,18.5,1503,Alto,Outubro,Medio
+BA,Barreiras,24.5,1397,Baixo,Setembro,Medio
+SC,Lages,17.1,1527,Alto,Novembro,Baixo
+MT,Cuiaba,29.0,1471,Baixo,Outubro,Medio
+PR,Cascavel,21.1,1712,Medio,Outubro,Baixo
+PR,Guarapuava,19.3,1602,Alto,Dezembro,Medio
+SC,Chapeco,20.8,1869,Medio,Novembro,Baixo
+MT,Sorriso,25.5,1962,Baixo,Outubro,Baixo
+SC,Chapeco,20.2,1969,Medio,Setembro,Medio
+MS,Campo Grande,25.2,1488,Baixo,Novembro,Baixo
+PR,Londrina,23.1,1640,Baixo,Dezembro,Medio
+GO,Rio Verde,25.0,1795,Baixo,Outubro,Baixo
+PR,Ponta Grossa,19.4,1547,Medio,Dezembro,Medio
+RS,Pelotas,19.0,1523,Baixo,Novembro,Baixo
+RS,Ijui,20.4,1815,Medio,Outubro,Baixo
+RS,Pelotas,18.3,1600,Baixo,Novembro,Baixo
+SC,Lages,18.1,1652,Alto,Outubro,Medio
+PR,Londrina,23.6,1584,Baixo,Novembro,Baixo
+PR,Londrina,23.5,1656,Baixo,Novembro,Baixo
+MT,Sorriso,25.4,1805,Baixo,Setembro,Medio
+GO,Rio Verde,24.0,1756,Baixo,Novembro,Baixo
+GO,Jatai,26.0,1656,Baixo,Outubro,Baixo
+RS,Santa Maria,19.9,1667,Medio,Dezembro,Medio
+GO,Rio Verde,25.2,1787,Baixo,Dezembro,Medio
+RS,Passo Fundo,16.8,1737,Alto,Setembro,Alto
+RS,Ijui,19.8,1810,Medio,Outubro,Baixo
+PR,Ponta Grossa,20.4,1489,Medio,Dezembro,Medio
+PR,Guarapuava,19.1,1581,Alto,Dezembro,Medio
+SC,Chapeco,20.8,1803,Medio,Setembro,Medio
+SC,Lages,16.4,1586,Alto,Dezembro,Medio
+PR,Londrina,23.6,1605,Baixo,Setembro,Medio
+RS,Pelotas,17.7,1601,Baixo,Novembro,Baixo
+RS,Pelotas,18.1,1555,Baixo,Setembro,Medio
+PR,Cascavel,21.0,1724,Medio,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,24.3,1240,Baixo,Dezembro,Alto
+PR,Londrina,24.3,1636,Baixo,Outubro,Baixo
+RS,Pelotas,20.2,1507,Baixo,Outubro,Baixo
+PR,Ponta Grossa,21.0,1596,Medio,Dezembro,Medio
+SC,Chapeco,19.0,1999,Medio,Setembro,Medio
+PR,Ponta Grossa,20.9,1583,Medio,Novembro,Baixo
+PR,Ponta Grossa,18.5,1525,Medio,Setembro,Medio
+RS,Santa Maria,18.6,1702,Medio,Setembro,Medio
+BA,Barreiras,26.3,1212,Baixo,Outubro,Medio
+RS,Ijui,20.9,1793,Medio,Setembro,Medio
+MS,Dourados,23.5,1524,Baixo,Novembro,Baixo
+PR,Londrina,22.8,1634,Baixo,Novembro,Baixo
+MT,Sorriso,25.0,1834,Baixo,Novembro,Baixo
+PR,Cascavel,22.0,1741,Medio,Outubro,Baixo
+SC,Chapeco,19.9,1879,Medio,Outubro,Baixo
+PR,Londrina,22.9,1506,Baixo,Novembro,Baixo
+PR,Londrina,22.9,1567,Baixo,Setembro,Medio
+PR,Cascavel,22.0,1681,Medio,Dezembro,Medio
+MT,Sinop,26.2,1992,Baixo,Dezembro,Medio
+SC,Joacaba,17.3,1700,Medio,Novembro,Baixo
+PR,Cascavel,21.7,1721,Medio,Dezembro,Medio
+RS,Ijui,19.3,1840,Medio,Dezembro,Medio
+RS,Pelotas,19.6,1533,Baixo,Outubro,Baixo
+SC,Lages,16.7,1693,Alto,Dezembro,Medio
+SC,Chapeco,21.3,1886,Medio,Setembro,Medio
+PR,Guarapuava,17.8,1606,Alto,Setembro,Alto
+BA,Barreiras,25.3,1260,Baixo,Dezembro,Alto
+SC,Joacaba,17.5,1674,Medio,Dezembro,Medio
+PR,Guarapuava,18.8,1666,Alto,Outubro,Medio
+GO,Rio Verde,24.8,1758,Baixo,Setembro,Medio
+BA,Luis Eduardo Magalhaes,26.0,1159,Baixo,Dezembro,Alto
+MT,Rondonopolis,25.7,1489,Baixo,Setembro,Medio
+PR,Cascavel,21.7,1767,Medio,Setembro,Medio
+PR,Guarapuava,17.5,1731,Alto,Dezembro,Medio
+MT,Rondonopolis,25.7,1456,Baixo,Novembro,Baixo
+MT,Cuiaba,29.2,1367,Baixo,Setembro,Medio
+MT,Sinop,26.8,2016,Baixo,Setembro,Medio
+BA,Luis Eduardo Magalhaes,26.5,1209,Baixo,Dezembro,Alto
+PR,Ponta Grossa,20.2,1464,Medio,Novembro,Baixo
+PR,Londrina,22.3,1558,Baixo,Novembro,Baixo
+MT,Rondonopolis,24.7,1486,Baixo,Novembro,Baixo
+GO,Rio Verde,24.4,1644,Baixo,Dezembro,Medio
+RS,Passo Fundo,17.4,1876,Alto,Outubro,Medio
+PR,Guarapuava,17.5,1664,Alto,Novembro,Baixo
+MT,Cuiaba,26.6,1436,Baixo,Setembro,Medio
+SC,Lages,16.3,1582,Alto,Setembro,Alto
+PR,Londrina,22.3,1527,Baixo,Setembro,Medio
+RS,Passo Fundo,18.6,1818,Alto,Dezembro,Medio
+GO,Jatai,25.7,1636,Baixo,Novembro,Baixo
+PR,Cascavel,20.5,1739,Medio,Outubro,Baixo
+MS,Dourados,23.6,1422,Baixo,Outubro,Baixo
+MT,Rondonopolis,25.4,1425,Baixo,Dezembro,Medio
+GO,Jatai,24.7,1722,Baixo,Dezembro,Medio
+RS,Santa Maria,21.2,1795,Medio,Dezembro,Medio
+RS,Passo Fundo,18.9,1742,Alto,Outubro,Medio
+MS,Campo Grande,25.2,1518,Baixo,Setembro,Medio
+RS,Santa Maria,20.9,1663,Medio,Setembro,Medio
+GO,Rio Verde,25.1,1632,Baixo,Setembro,Medio
+GO,Rio Verde,24.0,1703,Baixo,Outubro,Baixo
+SC,Chapeco,20.4,1933,Medio,Setembro,Medio
+RS,Pelotas,19.2,1598,Baixo,Setembro,Medio
+MT,Sinop,27.7,2097,Baixo,Novembro,Baixo
+BA,Barreiras,24.8,1358,Baixo,Outubro,Medio
+RS,Passo Fundo,18.4,1807,Alto,Setembro,Alto
+BA,Barreiras,24.9,1206,Baixo,Novembro,Medio
+MT,Sinop,27.9,1943,Baixo,Outubro,Baixo
+SC,Joacaba,18.3,1600,Medio,Setembro,Medio
+SC,Chapeco,20.7,1821,Medio,Dezembro,Medio
+RS,Santa Maria,18.7,1754,Medio,Novembro,Baixo
+PR,Londrina,23.0,1527,Baixo,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,26.5,1176,Baixo,Outubro,Medio
+MT,Sorriso,25.9,1966,Baixo,Outubro,Baixo
+MS,Dourados,23.0,1538,Baixo,Novembro,Baixo
+RS,Passo Fundo,17.8,1712,Alto,Novembro,Baixo
+SC,Chapeco,20.3,1973,Medio,Dezembro,Medio
+PR,Guarapuava,18.7,1739,Alto,Novembro,Baixo
+PR,Cascavel,21.0,1793,Medio,Dezembro,Medio
+PR,Cascavel,23.3,1666,Medio,Dezembro,Medio
+SC,Joacaba,17.2,1758,Medio,Outubro,Baixo
+RS,Santa Maria,20.6,1731,Medio,Dezembro,Medio
+PR,Guarapuava,17.0,1602,Alto,Novembro,Baixo
+MT,Cuiaba,29.3,1338,Baixo,Novembro,Medio
+PR,Cascavel,23.5,1733,Medio,Outubro,Baixo
+RS,Passo Fundo,18.0,1701,Alto,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,26.9,1228,Baixo,Novembro,Medio
+RS,Ijui,20.7,1783,Medio,Novembro,Baixo
+PR,Guarapuava,18.6,1719,Alto,Setembro,Alto
+SC,Lages,15.6,1602,Alto,Novembro,Baixo
+MS,Campo Grande,24.9,1511,Baixo,Dezembro,Medio
+MS,Campo Grande,25.2,1352,Baixo,Dezembro,Medio
+PR,Londrina,24.0,1568,Baixo,Novembro,Baixo
+BA,Barreiras,24.7,1224,Baixo,Outubro,Medio
+PR,Londrina,22.3,1618,Baixo,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,26.3,1158,Baixo,Outubro,Medio
+SC,Chapeco,19.3,1920,Medio,Dezembro,Medio
+MS,Campo Grande,24.5,1410,Baixo,Setembro,Medio
+GO,Rio Verde,25.5,1686,Baixo,Novembro,Baixo
+SC,Lages,16.7,1691,Alto,Setembro,Alto
+MS,Dourados,25.3,1568,Baixo,Dezembro,Medio
+RS,Passo Fundo,18.4,1863,Alto,Setembro,Alto
+BA,Barreiras,25.1,1295,Baixo,Novembro,Medio
+RS,Passo Fundo,18.5,1854,Alto,Dezembro,Medio
+MT,Sinop,26.2,2058,Baixo,Setembro,Medio
+MT,Cuiaba,27.5,1443,Baixo,Dezembro,Medio
+GO,Jatai,24.6,1681,Baixo,Novembro,Baixo
+MS,Dourados,24.7,1488,Baixo,Dezembro,Medio
+PR,Ponta Grossa,20.6,1616,Medio,Outubro,Baixo
+MS,Campo Grande,24.1,1456,Baixo,Novembro,Baixo
+MT,Rondonopolis,24.8,1337,Baixo,Dezembro,Medio
+MT,Sorriso,27.2,1888,Baixo,Dezembro,Medio
+RS,Santa Maria,19.7,1818,Medio,Outubro,Baixo
+SC,Lages,16.9,1544,Alto,Dezembro,Medio
+SC,Lages,17.1,1605,Alto,Dezembro,Medio
+RS,Passo Fundo,17.6,1748,Alto,Dezembro,Medio
+RS,Santa Maria,19.1,1664,Medio,Outubro,Baixo
+MT,Cuiaba,27.4,1365,Baixo,Setembro,Medio
+RS,Passo Fundo,18.7,1829,Alto,Setembro,Alto
+MS,Dourados,22.8,1598,Baixo,Outubro,Baixo
+PR,Ponta Grossa,19.7,1599,Medio,Novembro,Baixo
+MT,Cuiaba,28.6,1314,Baixo,Outubro,Medio
+PR,Guarapuava,18.2,1722,Alto,Novembro,Baixo
+MS,Dourados,23.4,1488,Baixo,Outubro,Baixo
+PR,Ponta Grossa,19.2,1642,Medio,Dezembro,Medio
+MS,Campo Grande,24.8,1439,Baixo,Outubro,Baixo
+MT,Sorriso,26.9,1849,Baixo,Novembro,Baixo
+MT,Rondonopolis,26.0,1482,Baixo,Outubro,Baixo
+MT,Cuiaba,27.5,1476,Baixo,Outubro,Baixo
+PR,Cascavel,23.1,1669,Medio,Dezembro,Medio
+SC,Chapeco,20.0,1811,Medio,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,25.1,1104,Baixo,Novembro,Medio
+GO,Jatai,24.3,1706,Baixo,Novembro,Baixo
+PR,Cascavel,20.6,1708,Medio,Outubro,Baixo
+SC,Chapeco,18.7,1895,Medio,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,24.8,1248,Baixo,Dezembro,Alto
+MT,Cuiaba,28.8,1415,Baixo,Dezembro,Medio
+SC,Chapeco,19.1,1902,Medio,Dezembro,Medio
+SC,Chapeco,18.7,1947,Medio,Setembro,Medio
+MT,Sorriso,26.2,1969,Baixo,Dezembro,Medio
+RS,Pelotas,19.4,1614,Baixo,Novembro,Baixo
+MT,Sorriso,26.6,1931,Baixo,Setembro,Medio
+RS,Passo Fundo,18.6,1838,Alto,Outubro,Medio
+RS,Passo Fundo,18.3,1870,Alto,Dezembro,Medio
+SC,Lages,16.7,1554,Alto,Setembro,Alto
+SC,Lages,16.3,1535,Alto,Novembro,Baixo
+PR,Guarapuava,19.0,1603,Alto,Dezembro,Medio
+PR,Londrina,22.4,1644,Baixo,Novembro,Baixo
+RS,Pelotas,18.7,1661,Baixo,Novembro,Baixo
+PR,Cascavel,21.3,1634,Medio,Outubro,Baixo
+PR,Londrina,24.2,1526,Baixo,Novembro,Baixo
+PR,Londrina,23.6,1589,Baixo,Setembro,Medio
+RS,Passo Fundo,19.5,1709,Alto,Dezembro,Medio
+SC,Lages,15.8,1568,Alto,Outubro,Medio
+BA,Luis Eduardo Magalhaes,24.8,1182,Baixo,Setembro,Medio
+SC,Lages,16.8,1539,Alto,Outubro,Medio
+SC,Lages,18.0,1655,Alto,Dezembro,Medio
+MT,Rondonopolis,26.4,1403,Baixo,Dezembro,Medio
+PR,Ponta Grossa,20.4,1628,Medio,Outubro,Baixo
+RS,Passo Fundo,18.6,1781,Alto,Dezembro,Medio
+SC,Lages,17.4,1545,Alto,Novembro,Baixo
+SC,Joacaba,19.0,1675,Medio,Outubro,Baixo
+RS,Passo Fundo,19.2,1783,Alto,Outubro,Medio
+MT,Rondonopolis,26.1,1397,Baixo,Dezembro,Medio
+PR,Cascavel,21.2,1716,Medio,Setembro,Medio
+PR,Ponta Grossa,19.2,1501,Medio,Dezembro,Medio
+PR,Ponta Grossa,18.6,1574,Medio,Dezembro,Medio
+MT,Sorriso,26.2,1973,Baixo,Novembro,Baixo
+RS,Pelotas,20.0,1695,Baixo,Novembro,Baixo
+RS,Santa Maria,19.9,1685,Medio,Setembro,Medio
+PR,Londrina,22.1,1629,Baixo,Dezembro,Medio
+PR,Guarapuava,17.0,1749,Alto,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,26.1,1168,Baixo,Setembro,Medio
+RS,Passo Fundo,18.3,1764,Alto,Dezembro,Medio
+MT,Rondonopolis,25.7,1473,Baixo,Dezembro,Medio
+MS,Campo Grande,25.6,1402,Baixo,Setembro,Medio
+MT,Rondonopolis,25.4,1445,Baixo,Setembro,Medio
+SC,Chapeco,19.1,1887,Medio,Setembro,Medio
+BA,Barreiras,24.9,1371,Baixo,Outubro,Medio
+BA,Luis Eduardo Magalhaes,25.5,1107,Baixo,Novembro,Medio
+SC,Chapeco,21.2,1836,Medio,Setembro,Medio
+MT,Sinop,27.7,1966,Baixo,Outubro,Baixo
+MT,Sorriso,25.7,1803,Baixo,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,25.8,1182,Baixo,Outubro,Medio
+BA,Barreiras,25.9,1363,Baixo,Novembro,Medio
+BA,Barreiras,27.3,1297,Baixo,Setembro,Medio
+BA,Barreiras,25.9,1317,Baixo,Dezembro,Medio
+GO,Jatai,25.8,1610,Baixo,Dezembro,Medio
+PR,Ponta Grossa,18.8,1635,Medio,Outubro,Baixo
+PR,Guarapuava,18.8,1613,Alto,Dezembro,Medio
+RS,Santa Maria,19.3,1840,Medio,Dezembro,Medio
+MT,Sorriso,25.4,1916,Baixo,Dezembro,Medio
+PR,Ponta Grossa,18.3,1540,Medio,Dezembro,Medio
+PR,Guarapuava,18.2,1636,Alto,Setembro,Alto
+RS,Ijui,20.0,1812,Medio,Outubro,Baixo
+PR,Guarapuava,18.8,1662,Alto,Outubro,Medio
+BA,Luis Eduardo Magalhaes,24.4,1154,Baixo,Setembro,Medio
+PR,Cascavel,21.8,1796,Medio,Dezembro,Medio
+MS,Campo Grande,24.4,1465,Baixo,Outubro,Baixo
+BA,Barreiras,25.7,1392,Baixo,Dezembro,Medio
+RS,Pelotas,18.6,1560,Baixo,Outubro,Baixo
+PR,Guarapuava,18.2,1632,Alto,Setembro,Alto
+PR,Ponta Grossa,20.9,1454,Medio,Novembro,Baixo
+RS,Ijui,19.0,1931,Medio,Novembro,Baixo
+MT,Cuiaba,29.2,1399,Baixo,Outubro,Medio
+GO,Jatai,24.1,1704,Baixo,Dezembro,Medio
+GO,Jatai,23.4,1591,Baixo,Dezembro,Medio
+SC,Lages,16.2,1619,Alto,Setembro,Alto
+MT,Cuiaba,27.7,1312,Baixo,Outubro,Medio
+BA,Barreiras,26.8,1265,Baixo,Setembro,Medio
+PR,Guarapuava,17.6,1629,Alto,Dezembro,Medio
+RS,Santa Maria,21.3,1670,Medio,Dezembro,Medio
+MT,Sorriso,26.3,1808,Baixo,Outubro,Baixo
+MS,Campo Grande,24.3,1511,Baixo,Outubro,Baixo
+MS,Campo Grande,26.3,1546,Baixo,Setembro,Medio
+GO,Jatai,23.4,1624,Baixo,Dezembro,Medio
+PR,Guarapuava,16.7,1727,Alto,Outubro,Medio
+BA,Barreiras,27.1,1368,Baixo,Novembro,Medio
+PR,Guarapuava,19.5,1691,Alto,Novembro,Baixo
+MS,Dourados,25.1,1481,Baixo,Dezembro,Medio
+SC,Lages,16.1,1643,Alto,Outubro,Medio
+GO,Jatai,23.3,1671,Baixo,Setembro,Medio
+PR,Guarapuava,17.6,1638,Alto,Dezembro,Medio
+RS,Ijui,19.6,1826,Medio,Dezembro,Medio
+SC,Lages,16.7,1669,Alto,Dezembro,Medio
+GO,Jatai,24.0,1593,Baixo,Outubro,Baixo
+BA,Luis Eduardo Magalhaes,25.8,1177,Baixo,Novembro,Medio
+GO,Rio Verde,25.5,1619,Baixo,Novembro,Baixo
+MT,Sorriso,26.5,1928,Baixo,Setembro,Medio
+MT,Cuiaba,29.2,1321,Baixo,Dezembro,Medio
+SC,Lages,17.2,1643,Alto,Setembro,Alto
+MT,Sinop,26.1,1985,Baixo,Dezembro,Medio
+MT,Rondonopolis,26.1,1401,Baixo,Outubro,Baixo
+RS,Santa Maria,19.9,1709,Medio,Dezembro,Medio
+MT,Rondonopolis,27.2,1303,Baixo,Outubro,Medio
+PR,Londrina,21.9,1511,Baixo,Setembro,Medio
+PR,Ponta Grossa,20.4,1603,Medio,Dezembro,Medio
+MT,Sorriso,25.1,1850,Baixo,Outubro,Baixo
+RS,Passo Fundo,17.4,1827,Alto,Dezembro,Medio
+SC,Joacaba,19.3,1671,Medio,Setembro,Medio
+MT,Sinop,26.8,2050,Baixo,Outubro,Baixo
+MT,Cuiaba,28.2,1488,Baixo,Novembro,Medio
+MS,Campo Grande,26.4,1367,Baixo,Dezembro,Medio
+PR,Guarapuava,18.7,1724,Alto,Outubro,Medio
+GO,Jatai,24.5,1576,Baixo,Novembro,Baixo
+PR,Guarapuava,16.8,1740,Alto,Dezembro,Medio
+RS,Santa Maria,20.5,1839,Medio,Dezembro,Medio
+RS,Pelotas,17.6,1620,Baixo,Dezembro,Medio
+RS,Ijui,19.5,1910,Medio,Outubro,Baixo
+GO,Jatai,23.0,1562,Baixo,Setembro,Medio
+SC,Joacaba,18.6,1675,Medio,Novembro,Baixo
+SC,Joacaba,18.5,1744,Medio,Setembro,Medio
+MT,Sinop,27.6,2068,Baixo,Novembro,Baixo
+GO,Rio Verde,23.7,1616,Baixo,Outubro,Baixo
+RS,Pelotas,18.5,1610,Baixo,Novembro,Baixo
+PR,Cascavel,21.5,1661,Medio,Dezembro,Medio
+SC,Chapeco,20.1,1828,Medio,Setembro,Medio
+MS,Dourados,24.8,1412,Baixo,Outubro,Baixo
+RS,Passo Fundo,17.7,1778,Alto,Setembro,Alto
+GO,Jatai,25.6,1719,Baixo,Setembro,Medio
+PR,Londrina,21.6,1662,Baixo,Dezembro,Medio
+MS,Campo Grande,24.3,1470,Baixo,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,26.8,1198,Baixo,Novembro,Medio
+PR,Ponta Grossa,19.5,1638,Medio,Novembro,Baixo
+MT,Sinop,26.0,2025,Baixo,Novembro,Baixo
+PR,Cascavel,23.0,1711,Medio,Dezembro,Medio
+PR,Cascavel,21.4,1775,Medio,Outubro,Baixo
+GO,Jatai,24.2,1705,Baixo,Outubro,Baixo
+BA,Barreiras,26.6,1379,Baixo,Dezembro,Medio
+RS,Passo Fundo,16.6,1835,Alto,Dezembro,Medio
+PR,Londrina,21.8,1536,Baixo,Outubro,Baixo
+GO,Jatai,24.7,1698,Baixo,Dezembro,Medio
+SC,Joacaba,17.3,1762,Medio,Novembro,Baixo
+RS,Pelotas,18.5,1569,Baixo,Setembro,Medio
+PR,Guarapuava,16.5,1720,Alto,Novembro,Baixo
+MS,Dourados,23.6,1435,Baixo,Setembro,Medio
+BA,Luis Eduardo Magalhaes,24.9,1275,Baixo,Setembro,Medio
+RS,Passo Fundo,19.1,1892,Alto,Novembro,Baixo
+PR,Cascavel,21.6,1750,Medio,Setembro,Medio
+BA,Barreiras,25.1,1285,Baixo,Setembro,Medio
+GO,Jatai,23.8,1635,Baixo,Setembro,Medio
 BA,Barreiras,25.4,1278,Baixo,Outubro,Medio
-SC,Lages,18.1,1641,Alto,Novembro,Baixo
-MT,Cuiaba,27.8,1310,Baixo,Novembro,Medio
-GO,Jatai,23.1,1611,Baixo,Dezembro,Medio
-RS,Pelotas,20.2,1507,Baixo,Dezembro,Medio
-BA,Barreiras,26.0,1346,Baixo,Novembro,Medio
-BA,Luis Eduardo Magalhaes,26.9,1172,Baixo,Setembro,Medio
-MS,Dourados,23.0,1565,Baixo,Setembro,Medio
-RS,Santa Maria,19.8,1668,Medio,Setembro,Medio
-BA,Luis Eduardo Magalhaes,24.3,1149,Baixo,Outubro,Medio
-MT,Cuiaba,28.7,1465,Baixo,Novembro,Medio
-SC,Joacaba,19.3,1749,Medio,Outubro,Baixo
-MT,Rondonopolis,26.7,1475,Baixo,Outubro,Baixo
-SC,Chapeco,20.4,1818,Medio,Outubro,Baixo
-MS,Dourados,25.4,1551,Baixo,Setembro,Medio
-RS,Passo Fundo,18.6,1777,Alto,Outubro,Medio
-MT,Sorriso,27.7,1801,Baixo,Setembro,Medio
-SC,Lages,17.1,1556,Alto,Dezembro,Medio
-SC,Lages,17.3,1515,Alto,Setembro,Alto
-BA,Barreiras,24.6,1255,Baixo,Setembro,Medio
-PR,Cascavel,21.5,1733,Medio,Dezembro,Medio
-MT,Sinop,28.3,2029,Baixo,Novembro,Medio
-GO,Rio Verde,24.4,1632,Baixo,Dezembro,Medio
-BA,Barreiras,24.9,1318,Baixo,Dezembro,Medio
-SC,Chapeco,21.1,1854,Medio,Novembro,Baixo
-BA,Luis Eduardo Magalhaes,26.4,1273,Baixo,Outubro,Medio
-GO,Rio Verde,24.2,1797,Baixo,Setembro,Medio
-SC,Chapeco,19.2,1903,Medio,Dezembro,Medio
-SC,Chapeco,20.9,1951,Medio,Novembro,Baixo
-MS,Campo Grande,24.1,1424,Baixo,Outubro,Baixo
-SC,Chapeco,19.6,1947,Medio,Dezembro,Medio
-BA,Barreiras,27.2,1394,Baixo,Novembro,Medio
-RS,Passo Fundo,19.0,1729,Alto,Outubro,Medio
-RS,Santa Maria,18.8,1752,Medio,Novembro,Baixo
-RS,Pelotas,18.8,1512,Baixo,Dezembro,Medio
-PR,Londrina,23.9,1570,Baixo,Outubro,Baixo
-MT,Rondonopolis,26.0,1423,Baixo,Dezembro,Medio
-RS,Pelotas,18.6,1593,Baixo,Novembro,Baixo
-MT,Sorriso,26.7,1853,Baixo,Setembro,Medio
-GO,Jatai,24.0,1600,Baixo,Setembro,Medio
-PR,Guarapuava,19.4,1720,Alto,Novembro,Baixo
-RS,Pelotas,18.5,1574,Baixo,Setembro,Medio
-RS,Ijui,19.1,1847,Medio,Dezembro,Medio
-RS,Santa Maria,19.0,1669,Medio,Novembro,Baixo
-SC,Joacaba,19.0,1745,Medio,Dezembro,Medio
-PR,Guarapuava,17.0,1661,Alto,Outubro,Medio
-PR,Ponta Grossa,20.9,1470,Medio,Outubro,Baixo
-MT,Sinop,27.4,1947,Baixo,Setembro,Medio
-MT,Sorriso,25.9,1907,Baixo,Dezembro,Medio
-MT,Rondonopolis,26.3,1433,Baixo,Setembro,Medio
-RS,Pelotas,18.1,1559,Baixo,Dezembro,Medio
-RS,Santa Maria,20.8,1675,Medio,Setembro,Medio
-GO,Rio Verde,24.9,1658,Baixo,Setembro,Medio
-MT,Sinop,27.4,2033,Baixo,Dezembro,Medio
-SC,Joacaba,18.9,1614,Medio,Outubro,Baixo
-MT,Sorriso,25.3,1887,Baixo,Setembro,Medio
-RS,Passo Fundo,18.2,1739,Alto,Setembro,Alto
-GO,Jatai,25.4,1593,Baixo,Setembro,Medio
-PR,Ponta Grossa,19.7,1477,Medio,Outubro,Baixo
-MS,Dourados,25.0,1484,Baixo,Outubro,Baixo
-SC,Joacaba,17.3,1658,Medio,Dezembro,Medio
-BA,Luis Eduardo Magalhaes,25.9,1228,Baixo,Novembro,Medio
-PR,Londrina,24.3,1572,Baixo,Dezembro,Medio
-BA,Barreiras,24.7,1306,Baixo,Setembro,Medio
-PR,Guarapuava,17.4,1672,Alto,Outubro,Medio
-MT,Rondonopolis,24.8,1438,Baixo,Outubro,Baixo
-RS,Ijui,18.6,1826,Medio,Setembro,Medio
-RS,Passo Fundo,16.9,1793,Alto,Outubro,Medio
-MT,Rondonopolis,25.5,1449,Baixo,Setembro,Medio
-MT,Cuiaba,28.7,1461,Baixo,Setembro,Medio
-SC,Chapeco,19.4,1844,Medio,Dezembro,Medio
-MT,Cuiaba,27.3,1488,Baixo,Outubro,Baixo
-RS,Ijui,18.9,1900,Medio,Novembro,Baixo
-GO,Rio Verde,25.2,1658,Baixo,Novembro,Baixo
-MT,Cuiaba,29.3,1462,Baixo,Dezembro,Medio
-BA,Luis Eduardo Magalhaes,25.4,1210,Baixo,Novembro,Medio
-PR,Cascavel,23.0,1738,Medio,Novembro,Baixo
-RS,Pelotas,19.0,1622,Baixo,Outubro,Baixo
-RS,Ijui,19.6,1816,Medio,Setembro,Medio
-SC,Lages,16.3,1586,Alto,Dezembro,Medio
-RS,Pelotas,19.9,1570,Baixo,Outubro,Baixo
-GO,Jatai,23.4,1555,Baixo,Setembro,Medio
-BA,Barreiras,25.2,1220,Baixo,Setembro,Medio
-PR,Ponta Grossa,18.8,1484,Medio,Novembro,Baixo
-PR,Londrina,24.3,1595,Baixo,Dezembro,Medio
-PR,Londrina,22.3,1647,Baixo,Setembro,Medio
-RS,Santa Maria,20.5,1666,Medio,Setembro,Medio
-RS,Pelotas,18.5,1597,Baixo,Outubro,Baixo
-GO,Rio Verde,26.1,1749,Baixo,Dezembro,Medio
-GO,Rio Verde,24.1,1710,Baixo,Setembro,Medio
-BA,Barreiras,25.2,1240,Baixo,Outubro,Medio
-SC,Lages,16.9,1557,Alto,Outubro,Medio
-MT,Cuiaba,26.5,1438,Baixo,Setembro,Medio
-PR,Cascavel,21.5,1639,Medio,Setembro,Medio
-PR,Cascavel,23.3,1649,Medio,Novembro,Baixo
-PR,Londrina,22.9,1557,Baixo,Setembro,Medio
-BA,Luis Eduardo Magalhaes,26.6,1262,Baixo,Novembro,Medio
-SC,Lages,17.8,1694,Alto,Novembro,Baixo
-RS,Passo Fundo,18.0,1794,Alto,Dezembro,Medio
-BA,Barreiras,26.4,1382,Baixo,Dezembro,Medio
-MT,Sinop,26.9,2038,Baixo,Setembro,Medio
-MT,Sorriso,25.8,1857,Baixo,Setembro,Medio
-RS,Santa Maria,19.2,1749,Medio,Outubro,Baixo
-PR,Londrina,22.0,1697,Baixo,Novembro,Baixo
-PR,Guarapuava,19.4,1606,Alto,Setembro,Alto
-SC,Chapeco,20.2,1929,Medio,Novembro,Baixo
-MT,Rondonopolis,27.3,1316,Baixo,Dezembro,Medio
-MS,Dourados,24.2,1473,Baixo,Setembro,Medio
-RS,Santa Maria,18.8,1790,Medio,Novembro,Baixo
-MT,Rondonopolis,26.8,1326,Baixo,Setembro,Medio
-MT,Cuiaba,27.8,1371,Baixo,Novembro,Medio
-RS,Santa Maria,21.1,1786,Medio,Setembro,Medio
-SC,Chapeco,19.0,1806,Medio,Setembro,Medio
-RS,Ijui,20.6,1888,Medio,Setembro,Medio
-MT,Cuiaba,28.1,1363,Baixo,Novembro,Medio
-PR,Cascavel,22.7,1753,Medio,Outubro,Baixo
-MS,Dourados,23.5,1527,Baixo,Setembro,Medio
-MT,Rondonopolis,25.9,1498,Baixo,Setembro,Medio
-BA,Luis Eduardo Magalhaes,26.6,1224,Baixo,Outubro,Medio
-PR,Ponta Grossa,20.1,1541,Medio,Setembro,Medio
-RS,Ijui,18.3,1864,Medio,Novembro,Baixo
-SC,Chapeco,18.8,1915,Medio,Novembro,Baixo
-RS,Ijui,18.3,1781,Medio,Outubro,Baixo
-RS,Passo Fundo,17.2,1713,Alto,Outubro,Medio
-MS,Dourados,23.7,1459,Baixo,Novembro,Baixo
-PR,Guarapuava,17.8,1584,Alto,Novembro,Baixo
-GO,Jatai,26.0,1567,Baixo,Setembro,Medio
-PR,Londrina,23.4,1506,Baixo,Outubro,Baixo
-MT,Cuiaba,26.8,1346,Baixo,Dezembro,Medio
-MT,Sinop,26.0,1941,Baixo,Setembro,Medio
-MT,Sorriso,26.8,1952,Baixo,Dezembro,Medio
-RS,Pelotas,20.4,1664,Baixo,Setembro,Medio
-GO,Jatai,25.3,1683,Baixo,Setembro,Medio
-GO,Rio Verde,26.0,1606,Baixo,Outubro,Baixo
-BA,Luis Eduardo Magalhaes,26.0,1239,Baixo,Dezembro,Alto
-BA,Barreiras,26.4,1221,Baixo,Novembro,Medio
-MT,Rondonopolis,25.8,1361,Baixo,Dezembro,Medio
-RS,Pelotas,18.4,1687,Baixo,Novembro,Baixo
-RS,Passo Fundo,17.1,1838,Alto,Setembro,Alto
-RS,Ijui,19.7,1824,Medio,Setembro,Medio
-MT,Rondonopolis,25.8,1408,Baixo,Outubro,Baixo
-RS,Santa Maria,21.0,1670,Medio,Outubro,Baixo
-PR,Londrina,22.5,1510,Baixo,Novembro,Baixo
-SC,Lages,17.8,1547,Alto,Dezembro,Medio
-MS,Dourados,23.2,1512,Baixo,Dezembro,Medio
-RS,Ijui,18.8,1781,Medio,Setembro,Medio
-SC,Lages,17.9,1623,Alto,Setembro,Alto
-RS,Ijui,19.4,1876,Medio,Dezembro,Medio
-BA,Luis Eduardo Magalhaes,26.5,1161,Baixo,Setembro,Medio
-PR,Guarapuava,17.4,1563,Alto,Setembro,Alto
-GO,Jatai,24.9,1708,Baixo,Setembro,Medio
-RS,Passo Fundo,16.7,1704,Alto,Novembro,Baixo
-RS,Ijui,19.1,1802,Medio,Dezembro,Medio
-MS,Dourados,24.3,1592,Baixo,Setembro,Medio
-MS,Dourados,25.2,1492,Baixo,Outubro,Baixo
-RS,Santa Maria,20.1,1831,Medio,Novembro,Baixo
-GO,Rio Verde,26.0,1613,Baixo,Outubro,Baixo
-SC,Chapeco,20.3,1893,Medio,Dezembro,Medio
-SC,Lages,16.3,1689,Alto,Outubro,Medio
-RS,Santa Maria,19.9,1837,Medio,Dezembro,Medio
-BA,Barreiras,24.9,1290,Baixo,Outubro,Medio
-MT,Cuiaba,27.7,1339,Baixo,Setembro,Medio
-SC,Lages,18.4,1522,Alto,Setembro,Alto
-SC,Joacaba,17.3,1753,Medio,Setembro,Medio
-MT,Sorriso,26.6,1837,Baixo,Dezembro,Medio
-MS,Dourados,23.2,1502,Baixo,Novembro,Baixo
+MT,Sinop,27.0,1985,Baixo,Novembro,Baixo
+BA,Luis Eduardo Magalhaes,26.4,1287,Baixo,Novembro,Medio
+MT,Cuiaba,28.0,1473,Baixo,Setembro,Medio
+PR,Londrina,22.9,1513,Baixo,Novembro,Baixo
+SC,Lages,16.3,1563,Alto,Setembro,Alto
+MT,Rondonopolis,26.9,1408,Baixo,Dezembro,Medio
+RS,Passo Fundo,18.3,1740,Alto,Setembro,Alto
+PR,Londrina,24.1,1670,Baixo,Outubro,Baixo
+BA,Luis Eduardo Magalhaes,25.8,1298,Baixo,Setembro,Medio
+RS,Passo Fundo,17.2,1843,Alto,Outubro,Medio
+BA,Barreiras,27.4,1207,Baixo,Setembro,Medio
+RS,Pelotas,20.5,1610,Baixo,Outubro,Baixo
+MT,Sinop,25.8,2017,Baixo,Dezembro,Medio
+RS,Passo Fundo,17.7,1881,Alto,Novembro,Baixo
+MS,Dourados,23.8,1463,Baixo,Outubro,Baixo
+BA,Barreiras,26.7,1331,Baixo,Setembro,Medio
+SC,Lages,18.4,1629,Alto,Dezembro,Medio
+SC,Chapeco,19.5,1860,Medio,Setembro,Medio
+RS,Ijui,19.4,1794,Medio,Outubro,Baixo
+PR,Cascavel,21.2,1745,Medio,Dezembro,Medio
+BA,Barreiras,27.4,1389,Baixo,Outubro,Medio
+MS,Dourados,22.7,1492,Baixo,Dezembro,Medio
+RS,Passo Fundo,18.0,1897,Alto,Setembro,Alto
+RS,Ijui,19.7,1930,Medio,Setembro,Medio
+GO,Rio Verde,24.8,1609,Baixo,Setembro,Medio
+BA,Barreiras,24.8,1347,Baixo,Dezembro,Medio
+MT,Cuiaba,26.7,1390,Baixo,Novembro,Medio
+SC,Chapeco,18.5,1934,Medio,Outubro,Baixo
+PR,Guarapuava,18.4,1600,Alto,Outubro,Medio
+BA,Luis Eduardo Magalhaes,24.5,1217,Baixo,Novembro,Medio
+GO,Rio Verde,24.0,1687,Baixo,Setembro,Medio
+PR,Londrina,23.1,1658,Baixo,Dezembro,Medio
+SC,Chapeco,19.0,1926,Medio,Dezembro,Medio
+SC,Joacaba,17.9,1778,Medio,Dezembro,Medio
+RS,Santa Maria,18.8,1789,Medio,Outubro,Baixo
+RS,Ijui,18.8,1808,Medio,Outubro,Baixo
+PR,Guarapuava,16.6,1670,Alto,Outubro,Medio
+PR,Guarapuava,17.9,1656,Alto,Setembro,Alto
+MT,Cuiaba,28.0,1449,Baixo,Outubro,Baixo
+RS,Santa Maria,19.6,1770,Medio,Setembro,Medio
+SC,Lages,18.5,1612,Alto,Dezembro,Medio
+BA,Barreiras,25.2,1203,Baixo,Dezembro,Alto
+RS,Passo Fundo,18.1,1728,Alto,Setembro,Alto
+MT,Sorriso,27.6,1840,Baixo,Novembro,Baixo
+MT,Sorriso,27.7,1976,Baixo,Dezembro,Medio
+MS,Campo Grande,26.4,1541,Baixo,Setembro,Medio
+MS,Dourados,23.0,1409,Baixo,Dezembro,Medio
+RS,Pelotas,18.7,1675,Baixo,Outubro,Baixo
+MT,Sinop,25.7,1906,Baixo,Outubro,Baixo
+RS,Ijui,19.5,1919,Medio,Dezembro,Medio
+SC,Chapeco,20.3,1847,Medio,Setembro,Medio
+SC,Joacaba,17.0,1716,Medio,Setembro,Medio
+SC,Joacaba,17.4,1786,Medio,Outubro,Baixo
+MS,Campo Grande,25.1,1511,Baixo,Dezembro,Medio
+PR,Ponta Grossa,18.2,1581,Medio,Novembro,Baixo
+RS,Passo Fundo,18.8,1825,Alto,Setembro,Alto
+SC,Chapeco,19.6,1891,Medio,Novembro,Baixo
+PR,Ponta Grossa,19.0,1525,Medio,Novembro,Baixo
+RS,Pelotas,20.0,1642,Baixo,Outubro,Baixo
+GO,Rio Verde,23.6,1761,Baixo,Outubro,Baixo
+PR,Londrina,24.1,1677,Baixo,Novembro,Baixo
+BA,Barreiras,26.7,1306,Baixo,Outubro,Medio
+PR,Cascavel,22.5,1609,Medio,Novembro,Baixo
+MS,Dourados,24.0,1404,Baixo,Setembro,Medio
+MT,Sinop,25.9,1924,Baixo,Dezembro,Medio
+MT,Sinop,27.0,2014,Baixo,Novembro,Baixo
+MT,Sinop,26.3,2064,Baixo,Outubro,Baixo
+PR,Ponta Grossa,19.0,1595,Medio,Dezembro,Medio
+SC,Joacaba,17.2,1763,Medio,Dezembro,Medio
+PR,Ponta Grossa,19.9,1490,Medio,Novembro,Baixo
+RS,Ijui,18.7,1793,Medio,Dezembro,Medio
+GO,Jatai,25.1,1574,Baixo,Dezembro,Medio
+MS,Campo Grande,23.7,1519,Baixo,Dezembro,Medio
+SC,Chapeco,20.1,1900,Medio,Setembro,Medio
+MT,Sorriso,26.1,1932,Baixo,Dezembro,Medio
+MT,Sorriso,26.1,1916,Baixo,Dezembro,Medio
+GO,Jatai,24.7,1735,Baixo,Dezembro,Medio
+SC,Lages,17.0,1668,Alto,Setembro,Alto
+RS,Ijui,18.7,1874,Medio,Outubro,Baixo
+RS,Passo Fundo,19.4,1710,Alto,Outubro,Medio
+BA,Barreiras,24.8,1221,Baixo,Novembro,Medio
+MT,Sinop,25.6,1946,Baixo,Novembro,Baixo
+PR,Ponta Grossa,20.2,1536,Medio,Dezembro,Medio
+PR,Cascavel,22.4,1780,Medio,Dezembro,Medio
+MS,Campo Grande,26.3,1411,Baixo,Setembro,Medio
+MS,Dourados,25.0,1457,Baixo,Setembro,Medio
+MT,Sorriso,27.9,1939,Baixo,Dezembro,Medio
+MT,Cuiaba,28.7,1420,Baixo,Dezembro,Medio
+MT,Sorriso,25.2,1947,Baixo,Novembro,Baixo
+MT,Sinop,27.6,1980,Baixo,Outubro,Baixo
+RS,Santa Maria,19.2,1672,Medio,Outubro,Baixo
+MT,Cuiaba,27.8,1307,Baixo,Setembro,Medio
+PR,Londrina,23.5,1520,Baixo,Dezembro,Medio
+SC,Joacaba,18.4,1782,Medio,Novembro,Baixo
+RS,Ijui,18.4,1772,Medio,Dezembro,Medio
+MT,Sorriso,27.2,1984,Baixo,Dezembro,Medio
+PR,Londrina,23.9,1595,Baixo,Setembro,Medio
+MT,Rondonopolis,24.7,1325,Baixo,Setembro,Medio
+PR,Londrina,24.1,1656,Baixo,Outubro,Baixo
+PR,Londrina,21.7,1548,Baixo,Novembro,Baixo
+MS,Dourados,24.8,1494,Baixo,Novembro,Baixo
+GO,Rio Verde,24.6,1671,Baixo,Setembro,Medio
+MS,Dourados,24.0,1451,Baixo,Outubro,Baixo
+GO,Jatai,23.3,1744,Baixo,Outubro,Baixo
+MT,Rondonopolis,25.1,1350,Baixo,Outubro,Medio
+SC,Chapeco,19.3,1971,Medio,Dezembro,Medio
+MT,Cuiaba,26.9,1382,Baixo,Setembro,Medio
+MS,Campo Grande,24.3,1523,Baixo,Novembro,Baixo
+RS,Pelotas,17.7,1606,Baixo,Setembro,Medio
+MT,Cuiaba,28.8,1392,Baixo,Outubro,Medio
+SC,Lages,15.7,1644,Alto,Outubro,Medio
+MS,Dourados,25.1,1442,Baixo,Outubro,Baixo
+SC,Joacaba,19.6,1645,Medio,Setembro,Medio
+GO,Rio Verde,24.3,1626,Baixo,Outubro,Baixo
+PR,Ponta Grossa,20.2,1611,Medio,Setembro,Medio
+SC,Lages,15.9,1590,Alto,Setembro,Alto
+GO,Jatai,23.9,1700,Baixo,Outubro,Baixo
+RS,Santa Maria,20.8,1735,Medio,Outubro,Baixo
+MT,Sinop,26.6,1943,Baixo,Outubro,Baixo
+SC,Lages,17.3,1580,Alto,Dezembro,Medio
+MT,Rondonopolis,26.9,1378,Baixo,Dezembro,Medio
+GO,Jatai,25.2,1599,Baixo,Outubro,Baixo
+MT,Sinop,28.0,2015,Baixo,Outubro,Baixo
+GO,Rio Verde,26.3,1634,Baixo,Dezembro,Medio
+MT,Sinop,27.2,2085,Baixo,Novembro,Baixo
+MT,Sorriso,27.8,1805,Baixo,Setembro,Medio
+RS,Pelotas,19.6,1671,Baixo,Outubro,Baixo
+MS,Campo Grande,24.0,1357,Baixo,Novembro,Medio
+PR,Cascavel,20.5,1675,Medio,Dezembro,Medio
+GO,Jatai,25.2,1718,Baixo,Outubro,Baixo
+MT,Sinop,26.3,1980,Baixo,Dezembro,Medio
+MT,Cuiaba,29.5,1430,Baixo,Outubro,Medio
+RS,Ijui,18.1,1909,Medio,Setembro,Medio
+MS,Campo Grande,24.6,1495,Baixo,Setembro,Medio
+GO,Rio Verde,24.5,1737,Baixo,Novembro,Baixo
+PR,Londrina,24.0,1697,Baixo,Novembro,Baixo
+PR,Ponta Grossa,18.1,1620,Medio,Dezembro,Medio
+PR,Guarapuava,16.7,1643,Alto,Outubro,Medio
+GO,Rio Verde,24.6,1705,Baixo,Novembro,Baixo
+PR,Londrina,24.2,1667,Baixo,Novembro,Baixo
+RS,Santa Maria,19.0,1659,Medio,Dezembro,Medio
+MT,Sinop,25.6,1922,Baixo,Dezembro,Medio
+BA,Luis Eduardo Magalhaes,25.5,1233,Baixo,Setembro,Medio
+SC,Chapeco,20.8,1845,Medio,Dezembro,Medio
+GO,Rio Verde,23.7,1713,Baixo,Novembro,Baixo
+SC,Lages,17.1,1620,Alto,Outubro,Medio
+PR,Cascavel,22.5,1713,Medio,Novembro,Baixo
+GO,Rio Verde,25.7,1676,Baixo,Setembro,Medio
+RS,Passo Fundo,18.1,1873,Alto,Novembro,Baixo
+MT,Sorriso,27.5,1966,Baixo,Outubro,Baixo
+RS,Pelotas,19.2,1681,Baixo,Outubro,Baixo
+GO,Jatai,23.9,1615,Baixo,Dezembro,Medio
+GO,Rio Verde,24.9,1737,Baixo,Setembro,Medio
+MS,Campo Grande,25.5,1498,Baixo,Dezembro,Medio
+GO,Jatai,25.8,1722,Baixo,Novembro,Baixo
+PR,Guarapuava,17.7,1719,Alto,Setembro,Alto
+RS,Ijui,20.7,1945,Medio,Setembro,Medio
+RS,Passo Fundo,16.9,1787,Alto,Dezembro,Medio
+GO,Rio Verde,25.6,1720,Baixo,Dezembro,Medio
+SC,Joacaba,18.8,1681,Medio,Setembro,Medio
+RS,Pelotas,19.8,1694,Baixo,Setembro,Medio
+MS,Dourados,23.6,1464,Baixo,Dezembro,Medio
+PR,Londrina,22.3,1613,Baixo,Outubro,Baixo
+RS,Passo Fundo,19.0,1798,Alto,Outubro,Medio
+PR,Ponta Grossa,20.8,1566,Medio,Setembro,Medio
+RS,Ijui,20.7,1784,Medio,Novembro,Baixo
+MS,Campo Grande,24.8,1423,Baixo,Novembro,Baixo
+RS,Pelotas,17.7,1510,Baixo,Dezembro,Medio
+MT,Sorriso,26.5,1999,Baixo,Dezembro,Medio
+MT,Sorriso,25.4,1809,Baixo,Setembro,Medio
+PR,Londrina,24.5,1533,Baixo,Dezembro,Medio
+MS,Campo Grande,24.8,1421,Baixo,Novembro,Baixo
+MS,Campo Grande,26.2,1362,Baixo,Outubro,Medio
+RS,Ijui,19.0,1841,Medio,Novembro,Baixo
+MT,Sinop,25.7,1910,Baixo,Dezembro,Medio
+PR,Guarapuava,18.6,1636,Alto,Setembro,Alto
+MS,Campo Grande,23.9,1395,Baixo,Setembro,Medio
+BA,Luis Eduardo Magalhaes,24.7,1176,Baixo,Dezembro,Alto
+SC,Lages,17.6,1516,Alto,Dezembro,Medio
+SC,Lages,16.3,1635,Alto,Setembro,Alto
+SC,Lages,16.9,1627,Alto,Outubro,Medio
+MS,Dourados,23.7,1535,Baixo,Dezembro,Medio
+GO,Rio Verde,25.0,1632,Baixo,Novembro,Baixo
+GO,Rio Verde,23.6,1650,Baixo,Dezembro,Medio
+MS,Campo Grande,24.7,1469,Baixo,Outubro,Baixo
+RS,Santa Maria,20.3,1835,Medio,Dezembro,Medio
+GO,Jatai,23.6,1562,Baixo,Setembro,Medio
+BA,Luis Eduardo Magalhaes,25.1,1142,Baixo,Setembro,Medio
+RS,Pelotas,17.9,1547,Baixo,Dezembro,Medio
+SC,Joacaba,17.8,1699,Medio,Novembro,Baixo
+RS,Santa Maria,21.3,1771,Medio,Outubro,Baixo
+MT,Sorriso,26.8,1899,Baixo,Setembro,Medio
+MS,Dourados,24.9,1580,Baixo,Setembro,Medio
+PR,Londrina,22.4,1589,Baixo,Setembro,Medio
+RS,Santa Maria,20.0,1687,Medio,Dezembro,Medio
+PR,Londrina,22.3,1578,Baixo,Outubro,Baixo
+GO,Jatai,24.3,1556,Baixo,Setembro,Medio
+MS,Dourados,24.2,1532,Baixo,Outubro,Baixo
+GO,Jatai,25.3,1704,Baixo,Outubro,Baixo
+BA,Barreiras,27.3,1241,Baixo,Setembro,Medio
+PR,Ponta Grossa,20.1,1603,Medio,Setembro,Medio
+RS,Ijui,18.2,1946,Medio,Dezembro,Medio
+RS,Pelotas,18.7,1625,Baixo,Dezembro,Medio
+GO,Rio Verde,24.1,1730,Baixo,Outubro,Baixo
+BA,Luis Eduardo Magalhaes,24.6,1114,Baixo,Dezembro,Alto
+BA,Luis Eduardo Magalhaes,24.8,1160,Baixo,Setembro,Medio
+PR,Londrina,23.5,1609,Baixo,Dezembro,Medio
+PR,Guarapuava,16.6,1573,Alto,Dezembro,Medio
+PR,Ponta Grossa,19.6,1523,Medio,Setembro,Medio
+MS,Campo Grande,26.3,1362,Baixo,Outubro,Medio
+RS,Santa Maria,21.0,1720,Medio,Outubro,Baixo
+RS,Ijui,20.4,1784,Medio,Dezembro,Medio
+PR,Londrina,23.7,1640,Baixo,Novembro,Baixo
+SC,Lages,17.2,1631,Alto,Novembro,Baixo
+SC,Lages,16.7,1611,Alto,Novembro,Baixo
+RS,Santa Maria,19.5,1682,Medio,Setembro,Medio
+BA,Luis Eduardo Magalhaes,26.4,1160,Baixo,Novembro,Medio
+MT,Cuiaba,26.7,1385,Baixo,Outubro,Medio
+RS,Passo Fundo,16.8,1767,Alto,Setembro,Alto
+MT,Sinop,28.5,2016,Baixo,Outubro,Medio
+RS,Passo Fundo,18.2,1778,Alto,Novembro,Baixo
+MS,Campo Grande,25.2,1388,Baixo,Dezembro,Medio
+RS,Ijui,20.5,1799,Medio,Novembro,Baixo
+BA,Barreiras,25.7,1205,Baixo,Outubro,Medio
+BA,Barreiras,26.9,1331,Baixo,Setembro,Medio
+GO,Jatai,26.0,1593,Baixo,Outubro,Baixo
+MT,Sinop,26.6,1961,Baixo,Dezembro,Medio
+MS,Campo Grande,24.4,1370,Baixo,Setembro,Medio
+PR,Guarapuava,16.7,1659,Alto,Outubro,Medio
+RS,Pelotas,19.3,1633,Baixo,Outubro,Baixo

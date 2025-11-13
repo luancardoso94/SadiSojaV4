@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SADI-Soja - Previsor de Risco</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -21,7 +23,9 @@
             padding: 25px 40px;
             border-radius: 8px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-            width: 400px;
+            width: 450px;
+            display: flex;
+            flex-direction: column;
         }
 
         h1 {
@@ -40,7 +44,7 @@
                 font-weight: bold;
             }
 
-            .form-group select, .form-group input {
+            .form-group select {
                 width: 100%;
                 padding: 10px;
                 border: 1px solid #ddd;
@@ -71,34 +75,74 @@
 
         #resultado {
             margin-top: 20px;
-            padding: 15px;
+            padding: 0;
             border-radius: 4px;
-            text-align: center;
-            font-size: 1.1em;
+            text-align: left;
             display: none;
+            border: 1px solid #ddd;
+            overflow: hidden;
         }
-        /* Classes de Risco (adicionamos 'Inviavel') */
+
+        .resultado-cabecalho {
+            padding: 12px 15px;
+            font-size: 1.1em;
+            font-weight: bold;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .resultado-corpo {
+            padding: 15px;
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+
+            .resultado-corpo strong {
+                display: block;
+                margin-bottom: 5px;
+                color: #333;
+            }
+
+            .resultado-corpo .solucao {
+                margin-top: 12px;
+                padding-top: 10px;
+                border-top: 1px dashed #ccc;
+            }
+
+        #chartContainer {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+            border: 1px solid #eee;
+            text-align: center;
+        }
+
+            #chartContainer h3 {
+                margin-top: 0;
+                color: #333;
+            }
+
         .risco-Baixo {
             background-color: #e6f7e9;
-            border: 1px solid #5cb85c;
+            border-color: #5cb85c;
             color: #3c763d;
         }
 
         .risco-Medio {
             background-color: #fff8e1;
-            border: 1px solid #f0ad4e;
+            border-color: #f0ad4e;
             color: #8a6d3b;
         }
 
         .risco-Alto {
             background-color: #fbe9e7;
-            border: 1px solid #d9534f;
+            border-color: #d9534f;
             color: #a94442;
         }
 
         .risco-Inviavel {
             background-color: #f2f2f2;
-            border: 1px solid #666;
+            border-color: #666;
             color: #333;
         }
     </style>
@@ -115,14 +159,12 @@
                     <option value="">Carregando estados...</option>
                 </select>
             </div>
-
             <div class="form-group">
                 <label for="cidade">Cidade:</label>
                 <select id="cidade" required disabled>
                     <option value="">Selecione um estado primeiro</option>
                 </select>
             </div>
-
             <div class="form-group">
                 <label for="janela_plantio">Mes de Plantio:</label>
                 <select id="janela_plantio" required>
@@ -144,11 +186,18 @@
                     </optgroup>
                 </select>
             </div>
-
             <button type="submit">Analisar Risco</button>
         </form>
 
-        <div id="resultado"></div>
+        <div id="resultado">
+            <div id="resultado-cabecalho" class="resultado-cabecalho"></div>
+            <div id="resultado-corpo" class="resultado-corpo"></div>
+        </div>
+
+        <div id="chartContainer" style="display: none;">
+            <h3>Comparativo Climatico (0=Pior, 100=Ideal)</h3>
+            <canvas id="radarChart"></canvas>
+        </div>
     </div>
 
     <script>
@@ -157,7 +206,39 @@
         const selectCidade = document.getElementById('cidade');
         const form = document.getElementById('previsao-form');
         const divResultado = document.getElementById('resultado');
+        const divResultadoCabecalho = document.getElementById('resultado-cabecalho');
+        const divResultadoCorpo = document.getElementById('resultado-corpo');
+        const chartContainer = document.getElementById('chartContainer');
+        let myRadarChart;
 
+        // --- MUDANCA: LOGICA DE NORMALIZACAO ---
+
+        // Define os pontos Minimos e Maximos para a normalizacao
+        const CLIMA_LIMITES = {
+            temp: { min: 15, ideal: 24, max: 30 }, // Faixa de 15C a 30C
+            precip: { min: 1000, ideal: 1700, max: 2200 }, // Faixa de 1000mm a 2200mm
+            geada: { min: 2, ideal: 0, max: 0 } // Faixa de 2 (Alto) a 0 (Baixo)
+        };
+
+        // Funcao para normalizar um valor (0-100)
+        function normalize(valor, min, max) {
+            if (valor > max) return 100;
+            if (valor < min) return 0;
+            return ((valor - min) / (max - min)) * 100;
+        }
+
+        // Funcao para normalizar geada (invertido, 0 e ideal)
+        function normalizeGeada(riscoStr) {
+            const mapRiscoGeada = { 'Baixo': 0, 'Medio': 1, 'Alto': 2 };
+            const valor = mapRiscoGeada[riscoStr]; // 0, 1, ou 2
+            // Inverte: (2 - 0) / 2 = 100 (Baixo) | (2 - 1) / 2 = 50 (Medio) | (2 - 2) / 2 = 0 (Alto)
+            return ((CLIMA_LIMITES.geada.min - valor) / CLIMA_LIMITES.geada.min) * 100;
+        }
+
+        // --- FIM DA LOGICA DE NORMALIZACAO ---
+
+
+        // Carregamento dos selects (sem mudanca)
         window.onload = function () {
             fetch('http://127.0.0.1:5000/get_cidades')
                 .then(response => response.json())
@@ -165,9 +246,7 @@
                     mapaCidades = data;
                     selectEstado.innerHTML = '<option value="">Selecione um estado</option>';
                     const estados = Object.keys(data).sort();
-                    estados.forEach(estado => {
-                        selectEstado.add(new Option(estado, estado));
-                    });
+                    estados.forEach(estado => { selectEstado.add(new Option(estado, estado)); });
                 })
                 .catch(error => {
                     console.error("Erro ao carregar mapa de cidades:", error);
@@ -178,24 +257,20 @@
         selectEstado.addEventListener('change', function () {
             const estadoSelecionado = selectEstado.value;
             selectCidade.innerHTML = '';
-
             if (estadoSelecionado === "") {
                 selectCidade.add(new Option('Selecione um estado primeiro', ''));
                 selectCidade.disabled = true;
                 return;
             }
-
             const cidades = mapaCidades[estadoSelecionado].sort();
             selectCidade.add(new Option('Selecione uma cidade', ''));
-            cidades.forEach(cidade => {
-                selectCidade.add(new Option(cidade, cidade));
-            });
+            cidades.forEach(cidade => { selectCidade.add(new Option(cidade, cidade)); });
             selectCidade.disabled = false;
         });
 
+        // Submit do formulario (sem mudanca na logica de fetch)
         form.addEventListener('submit', function (event) {
             event.preventDefault();
-
             const dadosUsuario = {
                 estado: selectEstado.value,
                 cidade: selectCidade.value,
@@ -203,8 +278,10 @@
             };
 
             divResultado.style.display = 'block';
-            divResultado.className = '';
-            divResultado.innerHTML = "Analisando...";
+            divResultadoCabecalho.className = 'resultado-cabecalho';
+            divResultadoCabecalho.innerHTML = "Analisando...";
+            divResultadoCorpo.innerHTML = "";
+            chartContainer.style.display = 'none';
 
             fetch('http://127.0.0.1:5000/predict', {
                 method: 'POST',
@@ -212,39 +289,118 @@
                 body: JSON.stringify(dadosUsuario),
             })
                 .then(response => {
-                    if (!response.ok) {
-                        return response.json().then(err => { throw new Error(err.erro); });
-                    }
+                    if (!response.ok) { return response.json().then(err => { throw new Error(err.erro); }); }
                     return response.json();
                 })
                 .then(data => {
-                    // --- MUDANCA: Logica para exibir o resultado ---
-                    let risco = data.risco_plantio_previsto;
-                    let confianca_html = "";
+                    const risco = data.risco_plantio_previsto;
+                    const explicacao = data.explicacao;
+                    const dados_utilizados = data.dados_utilizados;
 
-                    // Verifica se a resposta foi do ML ou da Regra
-                    if (data.probabilidades.Inviavel) {
-                        // Veio do Sistema de Regras (Inviavel)
-                        risco = risco.replace("(Vazio Sanitario)", "")
-                            .replace("(Epoca de Colheita)", "")
-                            .replace("(Sementeira tardia / Risco de doencas)", "");
-                        divResultado.className = 'risco-Inviavel';
-                        confianca_html = `<br><small>${data.risco_plantio_previsto}</small>`;
+                    divResultadoCabecalho.innerHTML = `Risco: ${risco}`;
+                    divResultadoCabecalho.className = `resultado-cabecalho risco-${risco}`;
+
+                    let corpoHtml = `
+                        <strong>O Porque (Analise):</strong>
+                        <p>${explicacao.detalhe}</p>
+                        <div class="solucao">
+                            <strong>Solucao Recomendada:</strong>
+                            <p>${explicacao.solucao}</p>
+                        </div>
+                    `;
+                    divResultadoCorpo.innerHTML = corpoHtml;
+
+                    if (risco !== 'Inviavel') {
+                        chartContainer.style.display = 'block';
+                        // --- MUDANCA: Renderiza o grafico com os dados normalizados ---
+                        renderRadarChart(dados_utilizados);
                     } else {
-                        // Veio do ML (Baixo, Medio, Alto)
-                        const prob = (data.probabilidades[risco] * 100).toFixed(2);
-                        divResultado.className = `risco-${risco}`;
-                        confianca_html = `<br><small>Confianca: ${prob}%</small>`;
+                        chartContainer.style.display = 'none';
                     }
-
-                    divResultado.innerHTML = `<strong>Risco: ${risco}</strong>${confianca_html}`;
                 })
                 .catch(error => {
                     console.error('Erro na API:', error);
-                    divResultado.innerHTML = `<strong>Erro:</strong> ${error.message}`;
-                    divResultado.className = 'risco-Alto';
+                    divResultadoCabecalho.innerHTML = 'Erro na Analise';
+                    divResultadoCabecalho.className = 'resultado-cabecalho risco-Alto';
+                    divResultadoCorpo.innerHTML = error.message;
+                    chartContainer.style.display = 'none';
                 });
         });
+
+        // --- MUDANCA: FUNCAO DE RENDERIZACAO DO GRAFICO ---
+        function renderRadarChart(dadosClimaticos) {
+            const ctx = document.getElementById('radarChart').getContext('2d');
+
+            // 1. Normaliza os dados da cidade
+            const local = {
+                temp: normalize(dadosClimaticos.temperatura_media, CLIMA_LIMITES.temp.min, CLIMA_LIMITES.temp.max),
+                precip: normalize(dadosClimaticos.precipitacao_media, CLIMA_LIMITES.precip.min, CLIMA_LIMITES.precip.max),
+                geada: normalizeGeada(dadosClimaticos.risco_geada)
+            };
+
+            // 2. Normaliza os dados ideais (deve dar 100 ou perto disso)
+            const ideal = {
+                temp: normalize(CLIMA_LIMITES.temp.ideal, CLIMA_LIMITES.temp.min, CLIMA_LIMITES.temp.max),
+                precip: normalize(CLIMA_LIMITES.precip.ideal, CLIMA_LIMITES.precip.min, CLIMA_LIMITES.precip.max),
+                geada: normalizeGeada('Baixo') // Ideal e geada Baixa (100)
+            };
+
+            if (myRadarChart) {
+                myRadarChart.destroy();
+            }
+
+            myRadarChart = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: ['Temperatura', 'Precipitacao', 'Risco Geada (Ideal=100)'],
+                    datasets: [
+                        {
+                            label: 'Condicoes Ideais (Pontos = 100)',
+                            data: [ideal.temp, ideal.precip, ideal.geada],
+                            backgroundColor: 'rgba(40, 167, 69, 0.2)',
+                            borderColor: 'rgba(40, 167, 69, 1)',
+                            pointBackgroundColor: 'rgba(40, 167, 69, 1)',
+                        },
+                        {
+                            label: 'Condicoes Locais (Pontos = 0-100)',
+                            data: [local.temp, local.precip, local.geada],
+                            backgroundColor: 'rgba(0, 123, 255, 0.2)',
+                            borderColor: 'rgba(0, 123, 255, 1)',
+                            pointBackgroundColor: 'rgba(0, 123, 255, 1)',
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    // --- MUDANCA: A escala agora e de 0 a 100 ---
+                    scales: {
+                        r: {
+                            angleLines: { display: true },
+                            suggestedMin: 0,
+                            suggestedMax: 100, // Escala normalizada
+                            ticks: {
+                                backdropColor: 'white',
+                                callback: function (value) { return value + '%'; } // Mostra como porcentagem
+                            }
+                        }
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                label: function (context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) { label += ': '; }
+                                    // Mostra o valor normalizado (0-100)
+                                    label += context.raw.toFixed(0) + '%';
+                                    return label;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
     </script>
 </body>
 </html>
