@@ -1,0 +1,22 @@
+cidade,estado,temperatura_media,precipitacao_media,risco_geada
+Passo Fundo,RS,18.0,1800,Alto
+Santa Maria,RS,20.0,1750,Medio
+Pelotas,RS,19.0,1600,Baixo
+Ijui,RS,19.5,1850,Medio
+Chapeco,SC,20.0,1900,Medio
+Lages,SC,17.0,1600,Alto
+Joacaba,SC,18.5,1700,Medio
+Londrina,PR,23.0,1600,Baixo
+Cascavel,PR,22.0,1700,Medio
+Ponta Grossa,PR,19.5,1550,Medio
+Guarapuava,PR,18.0,1650,Alto
+Dourados,MS,24.0,1500,Baixo
+Campo Grande,MS,25.0,1450,Baixo
+Sinop,MT,27.0,2000,Baixo
+Rondonopolis,MT,26.0,1400,Baixo
+Cuiaba,MT,28.0,1400,Baixo
+Sorriso,MT,26.5,1900,Baixo
+Rio Verde,GO,25.0,1700,Baixo
+Jatai,GO,24.5,1650,Baixo
+Barreiras,BA,26.0,1300,Baixo
+Luis Eduardo Magalhaes,BA,25.5,1200,Baixo

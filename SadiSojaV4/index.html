@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SADI-Soja - Previsor de Risco</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px 0;
+        }
+
+        #container {
+            background-color: #fff;
+            padding: 25px 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            width: 400px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c5e2e;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+            .form-group label {
+                display: block;
+                margin-bottom: 5px;
+                font-weight: bold;
+            }
+
+            .form-group select, .form-group input {
+                width: 100%;
+                padding: 10px;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+
+                .form-group select:disabled {
+                    background-color: #f0f0f0;
+                }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+            button:hover {
+                background-color: #218838;
+            }
+
+        #resultado {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 4px;
+            text-align: center;
+            font-size: 1.1em;
+            display: none;
+        }
+        /* Classes de Risco (adicionamos 'Inviavel') */
+        .risco-Baixo {
+            background-color: #e6f7e9;
+            border: 1px solid #5cb85c;
+            color: #3c763d;
+        }
+
+        .risco-Medio {
+            background-color: #fff8e1;
+            border: 1px solid #f0ad4e;
+            color: #8a6d3b;
+        }
+
+        .risco-Alto {
+            background-color: #fbe9e7;
+            border: 1px solid #d9534f;
+            color: #a94442;
+        }
+
+        .risco-Inviavel {
+            background-color: #f2f2f2;
+            border: 1px solid #666;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>SADI-Soja</h1>
+        <p>Previsao de Risco de Plantio</p>
+
+        <form id="previsao-form">
+            <div class="form-group">
+                <label for="estado">Estado:</label>
+                <select id="estado" required>
+                    <option value="">Carregando estados...</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="cidade">Cidade:</label>
+                <select id="cidade" required disabled>
+                    <option value="">Selecione um estado primeiro</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="janela_plantio">Mes de Plantio:</label>
+                <select id="janela_plantio" required>
+                    <optgroup label="Fora da Temporada (Risco Inviavel)">
+                        <option value="Janeiro">Janeiro</option>
+                        <option value="Fevereiro">Fevereiro</option>
+                        <option value="Marco">Marco</option>
+                        <option value="Abril">Abril</option>
+                        <option value="Maio">Maio</option>
+                        <option value="Junho">Junho</option>
+                        <option value="Julho">Julho</option>
+                        <option value="Agosto">Agosto</option>
+                    </optgroup>
+                    <optgroup label="Janela de Plantio (Risco Variavel)">
+                        <option value="Setembro">Setembro</option>
+                        <option value="Outubro">Outubro</option>
+                        <option value="Novembro">Novembro</option>
+                        <option value="Dezembro">Dezembro</option>
+                    </optgroup>
+                </select>
+            </div>
+
+            <button type="submit">Analisar Risco</button>
+        </form>
+
+        <div id="resultado"></div>
+    </div>
+
+    <script>
+        let mapaCidades = {};
+        const selectEstado = document.getElementById('estado');
+        const selectCidade = document.getElementById('cidade');
+        const form = document.getElementById('previsao-form');
+        const divResultado = document.getElementById('resultado');
+
+        window.onload = function () {
+            fetch('http://127.0.0.1:5000/get_cidades')
+                .then(response => response.json())
+                .then(data => {
+                    mapaCidades = data;
+                    selectEstado.innerHTML = '<option value="">Selecione um estado</option>';
+                    const estados = Object.keys(data).sort();
+                    estados.forEach(estado => {
+                        selectEstado.add(new Option(estado, estado));
+                    });
+                })
+                .catch(error => {
+                    console.error("Erro ao carregar mapa de cidades:", error);
+                    selectEstado.innerHTML = '<option value="">Erro ao carregar</option>';
+                });
+        };
+
+        selectEstado.addEventListener('change', function () {
+            const estadoSelecionado = selectEstado.value;
+            selectCidade.innerHTML = '';
+
+            if (estadoSelecionado === "") {
+                selectCidade.add(new Option('Selecione um estado primeiro', ''));
+                selectCidade.disabled = true;
+                return;
+            }
+
+            const cidades = mapaCidades[estadoSelecionado].sort();
+            selectCidade.add(new Option('Selecione uma cidade', ''));
+            cidades.forEach(cidade => {
+                selectCidade.add(new Option(cidade, cidade));
+            });
+            selectCidade.disabled = false;
+        });
+
+        form.addEventListener('submit', function (event) {
+            event.preventDefault();
+
+            const dadosUsuario = {
+                estado: selectEstado.value,
+                cidade: selectCidade.value,
+                janela_plantio: document.getElementById('janela_plantio').value
+            };
+
+            divResultado.style.display = 'block';
+            divResultado.className = '';
+            divResultado.innerHTML = "Analisando...";
+
+            fetch('http://127.0.0.1:5000/predict', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json', },
+                body: JSON.stringify(dadosUsuario),
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        return response.json().then(err => { throw new Error(err.erro); });
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // --- MUDANCA: Logica para exibir o resultado ---
+                    let risco = data.risco_plantio_previsto;
+                    let confianca_html = "";
+
+                    // Verifica se a resposta foi do ML ou da Regra
+                    if (data.probabilidades.Inviavel) {
+                        // Veio do Sistema de Regras (Inviavel)
+                        risco = risco.replace("(Vazio Sanitario)", "")
+                            .replace("(Epoca de Colheita)", "")
+                            .replace("(Sementeira tardia / Risco de doencas)", "");
+                        divResultado.className = 'risco-Inviavel';
+                        confianca_html = `<br><small>${data.risco_plantio_previsto}</small>`;
+                    } else {
+                        // Veio do ML (Baixo, Medio, Alto)
+                        const prob = (data.probabilidades[risco] * 100).toFixed(2);
+                        divResultado.className = `risco-${risco}`;
+                        confianca_html = `<br><small>Confianca: ${prob}%</small>`;
+                    }
+
+                    divResultado.innerHTML = `<strong>Risco: ${risco}</strong>${confianca_html}`;
+                })
+                .catch(error => {
+                    console.error('Erro na API:', error);
+                    divResultado.innerHTML = `<strong>Erro:</strong> ${error.message}`;
+                    divResultado.className = 'risco-Alto';
+                });
+        });
+    </script>
+</body>
+</html>
