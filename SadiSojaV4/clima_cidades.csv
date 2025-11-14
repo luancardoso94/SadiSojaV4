@@ -1,22 +1,22 @@
-cidade,estado,temperatura_media,precipitacao_media,risco_geada
-Passo Fundo,RS,18.0,1800,Alto
-Santa Maria,RS,20.0,1750,Medio
-Pelotas,RS,19.0,1600,Baixo
-Ijui,RS,19.5,1850,Medio
-Chapeco,SC,20.0,1900,Medio
-Lages,SC,17.0,1600,Alto
-Joacaba,SC,18.5,1700,Medio
-Londrina,PR,23.0,1600,Baixo
-Cascavel,PR,22.0,1700,Medio
-Ponta Grossa,PR,19.5,1550,Medio
-Guarapuava,PR,18.0,1650,Alto
-Dourados,MS,24.0,1500,Baixo
-Campo Grande,MS,25.0,1450,Baixo
-Sinop,MT,27.0,2000,Baixo
-Rondonopolis,MT,26.0,1400,Baixo
-Cuiaba,MT,28.0,1400,Baixo
-Sorriso,MT,26.5,1900,Baixo
-Rio Verde,GO,25.0,1700,Baixo
-Jatai,GO,24.5,1650,Baixo
-Barreiras,BA,26.0,1300,Baixo
-Luis Eduardo Magalhaes,BA,25.5,1200,Baixo
+cidade,estado,lat,lon,temperatura_media,precipitacao_media,risco_geada
+Passo Fundo,RS,-28.26,-52.4,18.0,1800,Alto
+Santa Maria,RS,-29.68,-53.8,20.0,1750,Medio
+Pelotas,RS,-31.77,-52.34,19.0,1600,Baixo
+Ijui,RS,-28.38,-53.91,19.5,1850,Medio
+Chapeco,SC,-27.1,-52.61,20.0,1900,Medio
+Lages,SC,-27.81,-50.32,17.0,1600,Alto
+Joacaba,SC,-27.17,-51.5,18.5,1700,Medio
+Londrina,PR,-23.31,-51.16,23.0,1600,Baixo
+Cascavel,PR,-24.95,-53.45,22.0,1700,Medio
+Ponta Grossa,PR,-25.09,-50.16,19.5,1550,Medio
+Guarapuava,PR,-25.39,-51.45,18.0,1650,Alto
+Dourados,MS,-22.22,-54.8,24.0,1500,Baixo
+Campo Grande,MS,-20.44,-54.64,25.0,1450,Baixo
+Cuiaba,MT,-15.59,-56.09,28.0,1400,Baixo
+Sinop,MT,-11.86,-55.5,27.0,2000,Baixo
+Rondonopolis,MT,-16.47,-54.63,26.0,1400,Baixo
+Sorriso,MT,-12.54,-55.71,26.5,1900,Baixo
+Rio Verde,GO,-17.79,-50.92,25.0,1700,Baixo
+Jatai,GO,-17.88,-51.71,24.5,1650,Baixo
+Barreiras,BA,-12.14,-44.99,26.0,1300,Baixo
+Luis Eduardo Magalhaes,BA,-12.09,-45.8,25.5,1200,Baixo
